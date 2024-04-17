@@ -12,4 +12,4 @@ Predict the winner of matches in the UEFA Champions League.
 
 `matches.csv`: CSV file where the data is stored.
 
-`prediction.ipynb`: File containing the machine learning and prediciton process.
+`prediction.ipynb`: File containing the machine learning and prediction process.
