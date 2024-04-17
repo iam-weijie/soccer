@@ -1,0 +1,521 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Season,Team
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,fr Paris S-G,0.7,2.4,33.0,47379.0,Emre Can,3-5-2,Jesús Gil,Match Report,,14.0,1.0,19.0,0.0,0,0,2024,Dortmund
+8,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,D,0.0,0.0,it Milan,1.0,1.6,57.0,81365.0,Emre Can,4-2-3-1,Szymon Marciniak,Match Report,,18.0,3.0,20.2,2.0,0,0,2024,Dortmund
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Away,W,1.0,0.0,eng Newcastle Utd,1.8,1.1,41.0,52024.0,Emre Can,4-3-3,Artur Soares Dias,Match Report,,13.0,5.0,17.4,0.0,0,0,2024,Dortmund
+15,2023-11-07,18:45,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,eng Newcastle Utd,1.4,0.6,46.0,81365.0,Gregor Kobel,4-2-3-1,Alejandro Hernández,Match Report,,17.0,8.0,19.6,0.0,0,0,2024,Dortmund
+18,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,it Milan,1.8,2.1,46.0,75292.0,Emre Can,4-2-3-1,István Kovács,Match Report,,11.0,3.0,18.7,0.0,1,1,2024,Dortmund
+22,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,fr Paris S-G,1.4,2.8,41.0,81365.0,Gregor Kobel,4-2-3-1,Glenn Nyberg,Match Report,,10.0,6.0,19.3,0.0,0,0,2024,Dortmund
+31,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Away,D,1.0,1.0,nl PSV Eindhoven,0.9,1.6,45.0,34950.0,Emre Can,4-2-3-1,Srđan Jovanović,Match Report,Leg 1 of 2,8.0,5.0,13.3,0.0,0,0,2024,Dortmund
+35,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Home,W,2.0,0.0,nl PSV Eindhoven,1.5,1.5,48.0,81365.0,Emre Can,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Dortmund won,15.0,7.0,13.0,0.0,0,0,2024,Dortmund
+39,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,L,1.0,2.0,es Atlético Madrid,0.9,2.2,66.0,68641.0,Emre Can,4-2-3-1,Marco Guida,Match Report,Leg 1 of 2,12.0,4.0,18.8,1.0,0,0,2024,Dortmund
+41,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,W,4.0,2.0,es Atlético Madrid,1.5,1.9,52.0,,Emre Can,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Dortmund won,19.0,9.0,16.9,0.0,0,0,2024,Dortmund
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,de Dortmund,2.4,0.7,67.0,47379.0,Marquinhos,4-3-3,Jesús Gil,Match Report,,16.0,2.0,18.5,0.0,1,1,2024,Paris Saint Germain
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,L,1.0,4.0,eng Newcastle Utd,0.9,0.9,73.0,52009.0,Marquinhos,4-2-3-1,István Kovács,Match Report,,11.0,2.0,21.4,0.0,0,0,2024,Paris Saint Germain
+11,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,0.0,it Milan,1.3,0.6,61.0,45962.0,Marquinhos,4-3-3,Slavko Vinčič,Match Report,,13.0,7.0,19.2,0.0,0,0,2024,Paris Saint Germain
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,1.0,2.0,it Milan,1.5,1.4,69.0,75649.0,Marquinhos,4-3-3,Jesús Gil,Match Report,,17.0,6.0,17.0,0.0,0,0,2024,Paris Saint Germain
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,eng Newcastle Utd,4.4,1.3,72.0,46435.0,Kylian Mbappé,4-3-3,Szymon Marciniak,Match Report,,30.0,6.0,17.9,0.0,1,1,2024,Paris Saint Germain
+20,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,de Dortmund,2.8,1.4,59.0,81365.0,Marquinhos,3-4-3,Glenn Nyberg,Match Report,,18.0,5.0,17.3,1.0,0,0,2024,Paris Saint Germain
+31,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Home,W,2.0,0.0,es Real Sociedad,1.2,0.7,62.0,46435.0,Marquinhos,4-3-3,Marco Guida,Match Report,Leg 1 of 2,14.0,6.0,17.4,0.0,0,0,2024,Paris Saint Germain
+35,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Away,W,2.0,1.0,es Real Sociedad,1.4,0.9,56.0,39336.0,Kylian Mbappé,4-3-1-2,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,10.0,7.0,16.5,0.0,0,0,2024,Paris Saint Germain
+42,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,L,2.0,3.0,es Barcelona,1.2,1.9,59.0,47470.0,Marquinhos,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2,18.0,6.0,17.9,0.0,0,0,2024,Paris Saint Germain
+43,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,W,4.0,1.0,es Barcelona,2.3,1.1,67.0,,Marquinhos,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won,20.0,8.0,17.7,1.0,1,1,2024,Paris Saint Germain
+7,2023-09-19,20:00,Champions Lg,Group stage,Tue,Home,W,3,1,rs Red Star,4.1,0.8,76.0,50204.0,Kyle Walker,4-2-3-1,João Pinheiro,Match Report,,37.0,16.0,15.2,1.0,0,0,2024,Manchester City
+11,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,W,3,1,de RB Leipzig,2.2,0.5,68.0,45228.0,Kyle Walker,3-2-4-1,Artur Soares Dias,Match Report,,18.0,5.0,14.7,1.0,0,0,2024,Manchester City
+14,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,W,3,1,ch Young Boys,4.2,0.4,68.0,31500.0,Rúben Dias,3-2-4-1,Morten Krogh,Match Report,,25.0,12.0,15.4,0.0,1,1,2024,Manchester City
+17,2023-11-07,20:00,Champions Lg,Group stage,Tue,Home,W,3,0,ch Young Boys,3.4,0.0,71.0,51049.0,Kyle Walker,3-2-4-1,Erik Lambrechts,Match Report,,26.0,8.0,16.1,1.0,1,1,2024,Manchester City
+20,2023-11-28,20:00,Champions Lg,Group stage,Tue,Home,W,3,2,de RB Leipzig,1.8,0.5,70.0,51402.0,Kyle Walker,3-2-4-1,Glenn Nyberg,Match Report,,14.0,6.0,14.4,0.0,0,0,2024,Manchester City
+24,2023-12-13,18:45,Champions Lg,Group stage,Wed,Away,W,3,2,rs Red Star,1.4,1.1,68.0,49443.0,John Stones,4-2-3-1,Əliyar Ağayev,Match Report,,9.0,2.0,19.2,0.0,1,1,2024,Manchester City
+34,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Away,W,3,1,dk FC Copenhagen,3.3,0.3,79.0,35853.0,Kyle Walker,4-2-3-1,José Sánchez,Match Report,Leg 1 of 2,27.0,12.0,17.4,4.0,0,0,2024,Manchester City
+40,2024-03-06,20:00,Champions Lg,Round of 16,Wed,Home,W,3,1,dk FC Copenhagen,0.8,1.2,68.0,51531.0,Rúben Dias,4-2-3-1,Espen Eskås,Match Report,Leg 2 of 2; Manchester City won,12.0,3.0,14.8,0.0,0,0,2024,Manchester City
+46,2024-04-09,21:00,Champions Lg,Quarter-finals,Tue,Away,D,3,3,es Real Madrid,0.8,0.7,61.0,76680.0,Rúben Dias,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,12.0,6.0,19.7,2.0,0,0,2024,Manchester City
+5,2023-09-20,18:45,Champions Lg,Group stage,Wed,Home,W,1.0,0.0,de Union Berlin,3.7,0.2,75.0,65207.0,Nacho,4-3-1-2,Espen Eskås,Match Report,,32.0,7.0,16.2,1.0,0,0,2024,Real Madrid
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,it Napoli,1.4,1.9,50.0,51649.0,Nacho,4-3-1-2,Clément Turpin,Match Report,,18.0,5.0,16.4,0.0,0,0,2024,Real Madrid
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,pt Braga,0.9,1.5,52.0,29820.0,Nacho,4-3-1-2,Michael Oliver,Match Report,,13.0,6.0,21.2,0.0,0,0,2024,Real Madrid
+15,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,0.0,pt Braga,3.2,1.4,48.0,68509.0,Nacho,4-3-1-2,Halil Umut Meler,Match Report,,18.0,7.0,14.7,0.0,0,0,2024,Real Madrid
+18,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,W,4.0,2.0,it Napoli,2.8,1.4,53.0,73562.0,Dani Carvajal,4-2-2-2,François Letexier,Match Report,,20.0,9.0,13.6,0.0,0,0,2024,Real Madrid
+21,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,de Union Berlin,2.9,1.1,74.0,73420.0,Nacho,4-2-2-2,Rade Obrenović,Match Report,,22.0,8.0,17.2,0.0,0,1,2024,Real Madrid
+34,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Away,W,1.0,0.0,de RB Leipzig,1.4,1.4,50.0,45028.0,Nacho,4-3-1-2,Irfan Peljto,Match Report,Leg 1 of 2,15.0,3.0,16.0,0.0,0,0,2024,Real Madrid
+38,2024-03-06,21:00,Champions Lg,Round of 16,Wed,Home,D,1.0,1.0,de RB Leipzig,0.8,1.0,53.0,76126.0,Nacho,4-3-3,Davide Massa,Match Report,Leg 2 of 2; Real Madrid won,11.0,3.0,18.3,0.0,0,0,2024,Real Madrid
+42,2024-04-09,21:00,Champions Lg,Quarter-finals,Tue,Home,D,3.0,3.0,eng Manchester City,0.7,0.8,39.0,76680.0,Dani Carvajal,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,14.0,5.0,20.4,0.0,0,0,2024,Real Madrid
+4,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,it Lazio,0.9,1.2,51.0,46168.0,Jan Oblak,5-3-2,Slavko Vinčič,Match Report,,9.0,4.0,19.1,0.0,0,0,2024,Atletico Madrid
+8,2023-10-04,18:45,Champions Lg,Group stage,Wed,Home,W,3,2,nl Feyenoord,0.8,2.4,48.0,61742.0,Koke,3-5-2,François Letexier,Match Report,,7.0,3.0,23.8,0.0,0,0,2024,Atletico Madrid
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Away,D,2,2,sct Celtic,2.1,0.9,47.0,55844.0,Koke,3-5-2,Felix Zwayer,Match Report,,14.0,5.0,18.5,0.0,0,1,2024,Atletico Madrid
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,6,0,sct Celtic,2.9,0.0,65.0,60863.0,Koke,5-3-2,Ivan Kružliak,Match Report,,27.0,12.0,14.9,0.0,0,0,2024,Atletico Madrid
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,W,3,1,nl Feyenoord,1.3,1.1,49.0,43992.0,Koke,5-3-2,Anthony Taylor,Match Report,,9.0,3.0,14.7,0.0,0,0,2024,Atletico Madrid
+20,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,it Lazio,1.3,0.9,57.0,63574.0,Jan Oblak,3-5-2,Serdar Gözübüyük,Match Report,,16.0,4.0,16.5,1.0,0,0,2024,Atletico Madrid
+36,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Away,L,0,1,it Inter,0.6,2.3,44.0,73709.0,Koke,3-5-2,István Kovács,Match Report,Leg 1 of 2,7.0,0.0,19.1,0.0,0,0,2024,Atletico Madrid
+41,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Home,W,2 (3),1 (2),it Inter,2.7,1.6,48.0,69196.0,Koke,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Atlético Madrid won; Atlético Madrid won on penalty kicks following extra time,23.0,9.0,15.5,1.0,0,0,2024,Atletico Madrid
+44,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,W,2,1,de Dortmund,2.2,0.9,34.0,68641.0,Koke,3-5-2,Marco Guida,Match Report,Leg 1 of 2,14.0,9.0,14.5,0.0,0,0,2024,Atletico Madrid
+46,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,L,2,4,de Dortmund,1.9,1.5,48.0,,Koke,3-5-2,Slavko Vinčič,Match Report,Leg 2 of 2; Dortmund won,10.0,3.0,13.7,0.0,0,0,2024,Atletico Madrid
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,W,4.0,3.0,eng Manchester Utd,2.2,1.7,59.0,75000.0,Joshua Kimmich,4-2-3-1,Glenn Nyberg,Match Report,,18.0,8.0,16.6,0.0,1,1,2024,Bayern Munich
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,dk FC Copenhagen,0.9,0.9,57.0,35690.0,Joshua Kimmich,4-2-3-1,Orel Grinfeeld,Match Report,,15.0,5.0,17.5,1.0,0,0,2024,Bayern Munich
+12,2023-10-24,19:45,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,tr Galatasaray,1.9,2.7,48.0,51776.0,Joshua Kimmich,4-2-3-1,Davide Massa,Match Report,,14.0,6.0,14.9,1.0,0,0,2024,Bayern Munich
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,tr Galatasaray,2.5,0.7,61.0,75000.0,Manuel Neuer,4-2-3-1,António Nobre,Match Report,,16.0,4.0,13.6,0.0,0,0,2024,Bayern Munich
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0.0,0.0,dk FC Copenhagen,0.7,0.7,62.0,75000.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,9.0,2.0,16.7,1.0,0,0,2024,Bayern Munich
+21,2023-12-12,20:00,Champions Lg,Group stage,Tue,Away,W,1.0,0.0,eng Manchester Utd,1.2,0.3,59.0,73073.0,Manuel Neuer,4-2-3-1,Espen Eskås,Match Report,,10.0,3.0,16.4,0.0,0,0,2024,Bayern Munich
+30,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0.0,1.0,it Lazio,1.1,1.6,61.0,57470.0,Manuel Neuer,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,17.0,0.0,17.6,1.0,0,0,2024,Bayern Munich
+34,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,W,3.0,0.0,it Lazio,3.5,0.4,60.0,75000.0,Manuel Neuer,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Bayern Munich won,24.0,7.0,16.0,0.0,0,0,2024,Bayern Munich
+39,2024-04-09,20:00,Champions Lg,Quarter-finals,Tue,Away,D,2.0,2.0,eng Arsenal,1.9,1.0,41.0,60221.0,Manuel Neuer,4-2-3-1,Glenn Nyberg,Match Report,Leg 1 of 2,7.0,1.0,20.5,0.0,1,1,2024,Bayern Munich
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,5.0,0.0,be Antwerp,2.8,0.3,70.0,40989.0,Marc-André ter Stegen,4-3-3,Radu Petrescu,Match Report,,22.0,9.0,13.8,0.0,0,0,2024,Barcelona
+9,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,W,1.0,0.0,pt Porto,1.3,0.7,56.0,49722.0,Marc-André ter Stegen,4-3-3,Anthony Taylor,Match Report,,14.0,4.0,20.3,0.0,0,0,2024,Barcelona
+12,2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,ua Shakhtar,2.6,0.9,54.0,41409.0,Marc-André ter Stegen,4-3-3,Ivan Kružliak,Match Report,,19.0,6.0,17.3,3.0,0,0,2024,Barcelona
+15,2023-11-07,19:45,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,ua Shakhtar,0.9,0.9,67.0,49147.0,Marc-André ter Stegen,4-3-3,Irfan Peljto,Match Report,,13.0,1.0,18.2,0.0,0,0,2024,Barcelona
+18,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,1.0,pt Porto,1.8,1.1,54.0,43533.0,Ronald Araújo,4-3-3,Daniele Orsato,Match Report,,21.0,7.0,16.3,0.0,0,0,2024,Barcelona
+21,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,L,2.0,3.0,be Antwerp,1.1,1.7,69.0,13550.0,Sergi Roberto,4-3-3,Marco Guida,Match Report,,11.0,3.0,18.9,0.0,0,0,2024,Barcelona
+36,2024-02-21,21:00,Champions Lg,Round of 16,Wed,Away,D,1.0,1.0,it Napoli,0.7,0.9,50.0,49529.0,Marc-André ter Stegen,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,12.0,6.0,18.6,0.0,0,0,2024,Barcelona
+40,2024-03-12,21:00,Champions Lg,Round of 16,Tue,Home,W,3.0,1.0,it Napoli,2.7,1.3,48.0,50301.0,Marc-André ter Stegen,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,24.0,10.0,16.7,1.0,0,0,2024,Barcelona
+43,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,W,3.0,2.0,fr Paris S-G,1.9,1.2,41.0,47470.0,Sergi Roberto,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2,15.0,6.0,16.9,1.0,0,0,2024,Barcelona
+45,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1.0,4.0,fr Paris S-G,1.1,2.3,33.0,,Marc-André ter Stegen,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won,7.0,3.0,14.2,0.0,0,0,2024,Barcelona
+6,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,W,4,0,nl PSV Eindhoven,2.3,0.5,58.0,58860.0,Martin Ødegaard,4-3-3,Felix Zwayer,Match Report,,18.0,8.0,14.4,0.0,0,0,2024,Arsenal
+10,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,fr Lens,1.5,0.7,66.0,37040.0,Martin Ødegaard,4-3-3,Marco Guida,Match Report,,11.0,6.0,11.8,0.0,0,0,2024,Arsenal
+13,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,es Sevilla,1.9,0.8,43.0,39595.0,Martin Ødegaard,4-3-3,Glenn Nyberg,Match Report,,14.0,4.0,16.4,0.0,0,0,2024,Arsenal
+17,2023-11-08,20:00,Champions Lg,Group stage,Wed,Home,W,2,0,es Sevilla,1.5,0.0,62.0,60024.0,Jorginho,4-3-3,István Kovács,Match Report,,11.0,3.0,16.3,1.0,0,0,2024,Arsenal
+20,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,W,6,0,fr Lens,2.6,0.4,48.0,59987.0,Martin Ødegaard,4-3-3,Artur Soares Dias,Match Report,,13.0,7.0,14.8,0.0,1,1,2024,Arsenal
+24,2023-12-12,18:45,Champions Lg,Group stage,Tue,Away,D,1,1,nl PSV Eindhoven,1.0,1.3,58.0,35000.0,Jorginho,4-3-3,Tobias Stieler,Match Report,,12.0,3.0,15.4,0.0,0,0,2024,Arsenal
+35,2024-02-21,20:00,Champions Lg,Round of 16,Wed,Away,L,0,1,pt Porto,0.4,1.0,64.0,49111.0,Martin Ødegaard,4-3-3,Serdar Gözübüyük,Match Report,Leg 1 of 2,7.0,0.0,16.0,0.0,0,0,2024,Arsenal
+39,2024-03-12,20:00,Champions Lg,Round of 16,Tue,Home,W,1 (4),0 (2),pt Porto,0.9,0.5,58.0,60257.0,Martin Ødegaard,4-3-3,Clément Turpin,Match Report,Leg 2 of 2; Arsenal won; Arsenal won on penalty kicks following extra time,13.0,4.0,13.0,0.0,0,0,2024,Arsenal
+43,2024-04-09,20:00,Champions Lg,Quarter-finals,Tue,Home,D,2,2,de Bayern Munich,1.0,1.9,59.0,60221.0,Martin Ødegaard,4-3-3,Glenn Nyberg,Match Report,Leg 1 of 2,13.0,4.0,16.7,0.0,0,0,2024,Arsenal
+5,2023-09-19,22:00,Champions Lg,Group stage,Tue,Away,W,3,1,ua Shakhtar,1.8,0.5,54.0,46729.0,Pepe,4-2-3-1,Davide Massa,Match Report,,13.0,9.0,16.4,0.0,0,0,2024,Porto
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,L,0,1,es Barcelona,0.7,1.3,44.0,49722.0,Diogo Costa,4-4-2,Anthony Taylor,Match Report,,13.0,5.0,21.2,0.0,0,0,2024,Porto
+10,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,W,4,1,be Antwerp,1.3,0.7,45.0,13651.0,Pepe,4-4-2,Benoît Bastien,Match Report,,11.0,7.0,13.3,0.0,0,0,2024,Porto
+13,2023-11-07,20:00,Champions Lg,Group stage,Tue,Home,W,2,0,be Antwerp,2.2,0.6,67.0,44830.0,Pepe,4-4-2,Maurizio Mariani,Match Report,,15.0,5.0,16.4,0.0,1,1,2024,Porto
+15,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,es Barcelona,1.1,1.8,46.0,43533.0,Pepe,4-4-2,Daniele Orsato,Match Report,,13.0,5.0,15.1,0.0,0,0,2024,Porto
+18,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,W,5,3,ua Shakhtar,2.7,1.5,49.0,48113.0,Pepe,4-4-2,István Kovács,Match Report,,20.0,9.0,16.2,0.0,0,0,2024,Porto
+28,2024-02-21,20:00,Champions Lg,Round of 16,Wed,Home,W,1,0,eng Arsenal,1.0,0.4,36.0,49111.0,Pepe,4-2-3-1,Serdar Gözübüyük,Match Report,Leg 1 of 2,8.0,2.0,13.1,0.0,0,0,2024,Porto
+32,2024-03-12,20:00,Champions Lg,Round of 16,Tue,Away,L,0 (2),1 (4),eng Arsenal,0.5,0.9,42.0,60257.0,Pepe,4-2-3-1,Clément Turpin,Match Report,Leg 2 of 2; Arsenal won; Arsenal won on penalty kicks following extra time,10.0,3.0,19.9,1.0,0,0,2024,Porto
+4,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,es Real Sociedad,0.5,1.3,56.0,36591.0,Lautaro Martínez,3-5-2,Michael Oliver,Match Report,,6.0,1.0,14.7,0.0,0,0,2024,Internazionale
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,pt Benfica,3.8,0.3,47.0,66573.0,Lautaro Martínez,3-5-2,Danny Makkelie,Match Report,,21.0,7.0,14.3,1.0,0,0,2024,Internazionale
+11,2023-10-24,18:45,Champions Lg,Group stage,Tue,Home,W,2,1,at RB Salzburg,2.3,0.5,55.0,71825.0,Lautaro Martínez,3-5-2,François Letexier,Match Report,,16.0,2.0,16.2,0.0,1,1,2024,Internazionale
+14,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,W,1,0,at RB Salzburg,2.0,0.8,50.0,30071.0,Alessandro Bastoni,3-5-2,Serdar Gözübüyük,Match Report,,16.0,5.0,19.7,1.0,1,1,2024,Internazionale
+17,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,D,3,3,pt Benfica,3.0,1.6,59.0,52944.0,Stefan de Vrij,3-1-4-2,Andris Treimanis,Match Report,,13.0,7.0,18.8,1.0,1,1,2024,Internazionale
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,D,0,0,es Real Sociedad,0.7,0.7,45.0,69010.0,Matteo Darmian,3-5-2,Sandro Schärer,Match Report,,10.0,2.0,15.7,0.0,0,0,2024,Internazionale
+33,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Home,W,1,0,es Atlético Madrid,2.3,0.6,56.0,73709.0,Lautaro Martínez,3-5-2,István Kovács,Match Report,Leg 1 of 2,19.0,5.0,16.3,0.0,0,0,2024,Internazionale
+38,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Away,L,1 (2),2 (3),es Atlético Madrid,1.6,2.7,52.0,69196.0,Lautaro Martínez,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Atlético Madrid won; Atlético Madrid won on penalty kicks following extra time,15.0,5.0,19.1,1.0,0,0,2024,Internazionale
+5,2023-09-19,18:45,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,ch Young Boys,2.6,0.5,45.0,31500.0,Kevin Kampl,4-4-2,Enea Jorgji,Match Report,,21.0,8.0,15.1,0.0,0,0,2024,RB Leipzig
+9,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,3.0,eng Manchester City,0.5,2.2,32.0,45228.0,Emil Forsberg,4-2-3-1,Artur Soares Dias,Match Report,,3.0,1.0,25.2,0.0,0,0,2024,RB Leipzig
+12,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,1.0,rs Red Star,3.1,1.0,65.0,42209.0,Kevin Kampl,4-4-2,José Sánchez,Match Report,,27.0,10.0,16.5,2.0,0,0,2024,RB Leipzig
+16,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,rs Red Star,2.3,1.5,50.0,41961.0,Emil Forsberg,4-4-2,Daniele Orsato,Match Report,,24.0,4.0,20.4,0.0,0,0,2024,RB Leipzig
+19,2023-11-28,20:00,Champions Lg,Group stage,Tue,Away,L,2.0,3.0,eng Manchester City,0.5,1.8,30.0,51402.0,Emil Forsberg,5-4-1,Glenn Nyberg,Match Report,,5.0,3.0,21.2,0.0,0,0,2024,RB Leipzig
+22,2023-12-13,18:45,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,ch Young Boys,0.7,1.5,53.0,43331.0,Péter Gulácsi,4-2-2-2,Manfredas Lukjančukas,Match Report,,10.0,2.0,20.2,2.0,0,0,2024,RB Leipzig
+30,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Home,L,0.0,1.0,es Real Madrid,1.4,1.4,50.0,45028.0,Willi Orban,4-2-2-2,Irfan Peljto,Match Report,Leg 1 of 2,14.0,9.0,17.2,0.0,0,0,2024,RB Leipzig
+34,2024-03-06,21:00,Champions Lg,Round of 16,Wed,Away,D,1.0,1.0,es Real Madrid,1.0,0.8,47.0,76126.0,Willi Orban,4-2-2-2,Davide Massa,Match Report,Leg 2 of 2; Real Madrid won,20.0,4.0,17.8,1.0,0,0,2024,RB Leipzig
+4,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,es Atlético Madrid,1.2,0.9,49.0,46168.0,Ciro Immobile,4-3-3,Slavko Vinčič,Match Report,,19.0,7.0,23.5,1.0,0,0,2024,Lazio
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,sct Celtic,0.7,1.1,45.0,56063.0,Ciro Immobile,4-3-3,Donatas Rumšas,Match Report,,9.0,3.0,16.5,0.0,0,0,2024,Lazio
+11,2023-10-25,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,3.0,nl Feyenoord,2.3,2.1,54.0,44031.0,Ciro Immobile,4-3-3,Tobias Stieler,Match Report,,7.0,3.0,14.4,0.0,1,1,2024,Lazio
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,nl Feyenoord,1.1,1.4,36.0,36612.0,Ciro Immobile,4-3-3,Szymon Marciniak,Match Report,,9.0,1.0,16.8,1.0,0,0,2024,Lazio
+17,2023-11-28,18:45,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,sct Celtic,2.3,0.4,46.0,50555.0,Luis Alberto,4-3-3,Halil Umut Meler,Match Report,,22.0,5.0,18.8,0.0,0,0,2024,Lazio
+21,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,2.0,es Atlético Madrid,0.9,1.3,43.0,63574.0,Ciro Immobile,4-3-3,Serdar Gözübüyük,Match Report,,10.0,4.0,17.5,1.0,0,0,2024,Lazio
+32,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Home,W,1.0,0.0,de Bayern Munich,1.6,1.1,39.0,57470.0,Ciro Immobile,4-3-3,François Letexier,Match Report,Leg 1 of 2,10.0,3.0,18.3,0.0,1,1,2024,Lazio
+37,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Away,L,0.0,3.0,de Bayern Munich,0.4,3.5,40.0,75000.0,Ciro Immobile,4-3-3,Slavko Vinčič,Match Report,Leg 2 of 2; Bayern Munich won,5.0,0.0,18.1,0.0,0,0,2024,Lazio
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,it Inter,1.3,0.5,44.0,36591.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,,14.0,5.0,15.9,1.0,0,0,2024,Real Sociedad
+9,2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,2,0,at RB Salzburg,1.2,0.6,52.0,28227.0,Mikel Oyarzabal,4-4-2,Bartosz Frankowski,Match Report,,15.0,5.0,20.7,0.0,0,0,2024,Real Sociedad
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,pt Benfica,0.9,0.5,62.0,56002.0,Mikel Oyarzabal,4-3-3,Clément Turpin,Match Report,,12.0,2.0,16.6,0.0,0,0,2024,Real Sociedad
+16,2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,pt Benfica,3.3,0.8,52.0,36815.0,Mikel Oyarzabal,4-3-3,Anthony Taylor,Match Report,,16.0,6.0,14.2,0.0,0,1,2024,Real Sociedad
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,at RB Salzburg,1.3,0.6,71.0,34419.0,Mikel Oyarzabal,4-3-3,Mykola Balakin,Match Report,,21.0,7.0,18.6,1.0,0,0,2024,Real Sociedad
+23,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,it Inter,0.7,0.7,55.0,69010.0,Mikel Oyarzabal,4-1-4-1,Sandro Schärer,Match Report,,5.0,2.0,17.6,0.0,0,0,2024,Real Sociedad
+36,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,fr Paris S-G,0.7,1.2,38.0,46435.0,Mikel Merino,4-3-3,Marco Guida,Match Report,Leg 1 of 2,9.0,0.0,15.7,0.0,0,0,2024,Real Sociedad
+41,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,L,1,2,fr Paris S-G,0.9,1.4,44.0,39336.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,14.0,7.0,16.9,0.0,0,0,2024,Real Sociedad
+4,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,pt Braga,1.7,1.4,47.0,18422.0,Giovanni Di Lorenzo,4-3-3,Serdar Gözübüyük,Match Report,,18.0,6.0,15.8,0.0,0,0,2024,Napoli
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,es Real Madrid,1.9,1.4,50.0,51649.0,Giovanni Di Lorenzo,4-3-3,Clément Turpin,Match Report,,17.0,6.0,18.3,0.0,1,1,2024,Napoli
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,W,1.0,0.0,de Union Berlin,0.2,0.4,59.0,72062.0,Giovanni Di Lorenzo,4-3-3,Irfan Peljto,Match Report,,6.0,1.0,19.6,0.0,0,0,2024,Napoli
+14,2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,de Union Berlin,1.7,1.1,73.0,42449.0,Giovanni Di Lorenzo,4-3-3,Danny Makkelie,Match Report,,27.0,5.0,15.3,1.0,0,0,2024,Napoli
+17,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,L,2.0,4.0,es Real Madrid,1.4,2.8,47.0,73562.0,Giovanni Di Lorenzo,4-3-3,François Letexier,Match Report,,11.0,3.0,14.9,0.0,0,0,2024,Napoli
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,pt Braga,1.4,1.0,50.0,37841.0,Giovanni Di Lorenzo,4-3-3,Slavko Vinčič,Match Report,,9.0,6.0,22.9,1.0,0,0,2024,Napoli
+33,2024-02-21,21:00,Champions Lg,Round of 16,Wed,Home,D,1.0,1.0,es Barcelona,0.9,0.7,50.0,49529.0,Giovanni Di Lorenzo,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,6.0,1.0,16.1,1.0,0,0,2024,Napoli
+38,2024-03-12,21:00,Champions Lg,Round of 16,Tue,Away,L,1.0,3.0,es Barcelona,1.3,2.7,52.0,50301.0,Giovanni Di Lorenzo,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,14.0,4.0,16.8,0.0,0,0,2024,Napoli
+0,2023-08-08,20:30,Champions Lg,Third qualifying round,Tue,Home,W,4.0,1.0,at Sturm Graz,,,,31500.0,Luuk de Jong,4-3-3,Radu Petrescu,Match Report,Leg 1 of 2,,,,,0,0,2024,PSV Eindhoven
+2,2023-08-15,20:30,Champions Lg,Third qualifying round,Tue,Away,W,3.0,1.0,at Sturm Graz,,,,12571.0,Luuk de Jong,4-3-3,Srđan Jovanović,Match Report,Leg 2 of 2; PSV Eindhoven won,,,,,1,1,2024,PSV Eindhoven
+4,2023-08-22,20:00,Champions Lg,Play-off round,Tue,Away,D,2.0,2.0,sct Rangers,,,69.0,47537.0,Luuk de Jong,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,19.0,5.0,,,0,0,2024,PSV Eindhoven
+5,2023-08-30,21:00,Champions Lg,Play-off round,Wed,Home,W,5.0,1.0,sct Rangers,,,57.0,34560.0,Luuk de Jong,4-2-3-1,José Sánchez,Match Report,Leg 2 of 2; PSV Eindhoven won,21.0,10.0,,,0,0,2024,PSV Eindhoven
+8,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,L,0.0,4.0,eng Arsenal,0.5,2.3,42.0,58860.0,Luuk de Jong,4-2-3-1,Felix Zwayer,Match Report,,12.0,4.0,19.9,0.0,0,0,2024,PSV Eindhoven
+12,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,D,2.0,2.0,es Sevilla,2.6,1.3,63.0,34206.0,Luuk de Jong,4-3-3,Daniele Orsato,Match Report,,25.0,7.0,16.6,0.0,1,1,2024,PSV Eindhoven
+15,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,D,1.0,1.0,fr Lens,0.5,1.2,54.0,38133.0,Luuk de Jong,4-3-3,Radu Petrescu,Match Report,,10.0,2.0,17.4,1.0,0,0,2024,PSV Eindhoven
+18,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,1.0,0.0,fr Lens,0.8,1.1,46.0,34200.0,Luuk de Jong,4-2-3-1,Daniel Siebert,Match Report,,14.0,7.0,19.7,0.0,0,0,2024,PSV Eindhoven
+21,2023-11-29,18:45,Champions Lg,Group stage,Wed,Away,W,3.0,2.0,es Sevilla,2.2,1.8,60.0,29403.0,Luuk de Jong,4-2-3-1,Davide Massa,Match Report,,16.0,7.0,17.6,1.0,0,0,2024,PSV Eindhoven
+24,2023-12-12,18:45,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,eng Arsenal,1.3,1.0,42.0,35000.0,André Ramalho,4-3-3,Tobias Stieler,Match Report,,17.0,5.0,17.4,0.0,0,0,2024,PSV Eindhoven
+32,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Home,D,1.0,1.0,de Dortmund,1.6,0.9,55.0,34950.0,Luuk de Jong,4-3-3,Srđan Jovanović,Match Report,Leg 1 of 2,13.0,3.0,23.2,0.0,1,1,2024,PSV Eindhoven
+36,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Away,L,0.0,2.0,de Dortmund,1.5,1.5,52.0,81365.0,Luuk de Jong,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Dortmund won,17.0,7.0,17.4,0.0,0,0,2024,PSV Eindhoven
+1,2023-07-25,19:15,Champions Lg,Second qualifying round,Tue,Away,W,2,0,is Breiðablik,,,,1485.0,Rasmus Falk,4-3-3,Gergő Bogár,Match Report,Leg 1 of 2,,,,,0,0,2024,FC Copenhagen
+3,2023-08-02,20:00,Champions Lg,Second qualifying round,Wed,Home,W,6,3,is Breiðablik,,,,20886.0,Rasmus Falk,4-3-3,Fabio Maresca,Match Report,Leg 2 of 2; FC Copenhagen won,,,,,0,0,2024,FC Copenhagen
+5,2023-08-08,20:00,Champions Lg,Third qualifying round,Tue,Home,D,0,0,cz Sparta Prague,,,,27170.0,Rasmus Falk,4-3-3,Benoît Bastien,Match Report,Leg 1 of 2,,,,,0,0,2024,FC Copenhagen
+7,2023-08-15,19:00,Champions Lg,Third qualifying round,Tue,Away,D,3 (4),3 (2),cz Sparta Prague,,,,18109.0,Rasmus Falk,4-3-3,Serdar Gözübüyük,Match Report,Leg 2 of 2; FC Copenhagen won; FC Copenhagen won on penalty kicks following extra time,,,,,0,0,2024,FC Copenhagen
+9,2023-08-22,21:00,Champions Lg,Play-off round,Tue,Away,W,1,0,pl RKS Raków,,,48.0,11600.0,Viktor Claesson,4-3-3,Irfan Peljto,Match Report,Leg 1 of 2,4.0,1.0,,,0,0,2024,FC Copenhagen
+11,2023-08-30,21:00,Champions Lg,Play-off round,Wed,Home,D,1,1,pl RKS Raków,,,47.0,34737.0,Viktor Claesson,4-3-3,István Kovács,Match Report,Leg 2 of 2; FC Copenhagen won,12.0,1.0,,,0,0,2024,FC Copenhagen
+14,2023-09-20,19:45,Champions Lg,Group stage,Wed,Away,D,2,2,tr Galatasaray,0.6,1.1,37.0,46911.0,Rasmus Falk,4-3-3,Georgi Kabakov,Match Report,,7.0,3.0,17.1,0.0,0,0,2024,FC Copenhagen
+17,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,de Bayern Munich,0.9,0.9,43.0,35690.0,Viktor Claesson,4-3-3,Orel Grinfeeld,Match Report,,11.0,4.0,15.7,0.0,0,0,2024,FC Copenhagen
+20,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,L,0,1,eng Manchester Utd,1.9,1.7,50.0,73249.0,Viktor Claesson,4-3-3,Marco Guida,Match Report,,15.0,3.0,20.3,1.0,0,1,2024,FC Copenhagen
+23,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,4,3,eng Manchester Utd,2.2,3.0,52.0,36099.0,Viktor Claesson,4-3-3,Donatas Rumšas,Match Report,,15.0,7.0,20.8,0.0,1,1,2024,FC Copenhagen
+26,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,D,0,0,de Bayern Munich,0.7,0.7,38.0,75000.0,Viktor Claesson,4-3-2-1,Stéphanie Frappart,Match Report,,8.0,3.0,16.8,0.0,0,0,2024,FC Copenhagen
+28,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,tr Galatasaray,1.3,1.4,37.0,34726.0,Viktor Claesson,4-3-3,Daniele Orsato,Match Report,,11.0,3.0,17.9,0.0,0,0,2024,FC Copenhagen
+29,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Home,L,1,3,eng Manchester City,0.3,3.3,21.0,35853.0,Viktor Claesson,4-3-3,José Sánchez,Match Report,Leg 1 of 2,4.0,1.0,15.7,0.0,0,0,2024,FC Copenhagen
+33,2024-03-06,20:00,Champions Lg,Round of 16,Wed,Away,L,1,3,eng Manchester City,1.2,0.8,32.0,51531.0,Kamil Grabara,3-4-3,Espen Eskås,Match Report,Leg 2 of 2; Manchester City won,11.0,2.0,18.5,0.0,0,0,2024,FC Copenhagen
+7,2023-09-19,22:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,pt Porto,0.5,1.8,46.0,46729.0,Taras Stepanenko,4-3-3,Davide Massa,Match Report,,9.0,4.0,18.2,1.0,0,0,2024,Shakhtar Donetsk
+10,2023-10-04,18:45,Champions Lg,Group stage,Wed,Away,W,3.0,2.0,be Antwerp,2.3,1.8,47.0,13509.0,Taras Stepanenko,4-2-3-1,Rade Obrenović,Match Report,,16.0,6.0,16.8,1.0,0,0,2024,Shakhtar Donetsk
+12,2023-10-25,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,es Barcelona,0.9,2.6,46.0,41409.0,Taras Stepanenko,4-2-3-1,Ivan Kružliak,Match Report,,11.0,1.0,22.1,0.0,0,0,2024,Shakhtar Donetsk
+14,2023-11-07,19:45,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,es Barcelona,0.9,0.9,33.0,49147.0,Taras Stepanenko,4-1-4-1,Irfan Peljto,Match Report,,9.0,4.0,16.6,0.0,0,0,2024,Shakhtar Donetsk
+17,2023-11-28,19:45,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,be Antwerp,1.3,1.1,43.0,47209.0,Taras Stepanenko,4-1-4-1,Bartosz Frankowski,Match Report,,15.0,5.0,17.7,0.0,0,0,2024,Shakhtar Donetsk
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,L,3.0,5.0,pt Porto,1.5,2.7,51.0,48113.0,Taras Stepanenko,4-1-4-1,István Kovács,Match Report,,9.0,6.0,13.3,0.0,0,0,2024,Shakhtar Donetsk
+4,2023-09-19,18:45,Champions Lg,Group stage,Tue,Home,D,0.0,0.0,eng Newcastle Utd,1.9,0.3,53.0,65695.0,Davide Calabria,4-3-3,José Sánchez,Match Report,,25.0,8.0,16.9,0.0,0,0,2024,Milan
+8,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,D,0.0,0.0,de Dortmund,1.6,1.0,43.0,81365.0,Davide Calabria,4-3-3,Szymon Marciniak,Match Report,,14.0,2.0,15.0,0.0,0,0,2024,Milan
+11,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,3.0,fr Paris S-G,0.6,1.3,39.0,45962.0,Theo Hernández,4-3-3,Slavko Vinčič,Match Report,,11.0,4.0,18.7,1.0,0,0,2024,Milan
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,1.0,fr Paris S-G,1.4,1.5,31.0,75649.0,Davide Calabria,4-2-3-1,Jesús Gil,Match Report,,16.0,8.0,17.1,2.0,0,0,2024,Milan
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de Dortmund,2.1,1.8,54.0,75292.0,Davide Calabria,4-2-3-1,István Kovács,Match Report,,16.0,3.0,15.9,1.0,0,1,2024,Milan
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,eng Newcastle Utd,1.9,1.8,42.0,52037.0,Davide Calabria,4-2-3-1,Danny Makkelie,Match Report,,12.0,2.0,18.2,0.0,0,0,2024,Milan
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,es Sevilla,1.3,0.8,44.0,33544.0,Brice Samba,3-4-3,Tobias Stieler,Match Report,,12.0,3.0,14.4,1.0,0,0,2024,Lens
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,eng Arsenal,0.7,1.5,34.0,37040.0,Brice Samba,3-4-3,Marco Guida,Match Report,,10.0,3.0,15.8,0.0,0,0,2024,Lens
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,nl PSV Eindhoven,1.2,0.5,46.0,38133.0,Brice Samba,3-4-3,Radu Petrescu,Match Report,,14.0,2.0,14.0,0.0,0,0,2024,Lens
+14,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,nl PSV Eindhoven,1.1,0.8,54.0,34200.0,Brice Samba,3-4-3,Daniel Siebert,Match Report,,15.0,3.0,18.1,1.0,0,0,2024,Lens
+17,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,L,0,6,eng Arsenal,0.4,2.6,52.0,59987.0,Brice Samba,3-4-3,Artur Soares Dias,Match Report,,6.0,3.0,18.6,0.0,0,0,2024,Lens
+20,2023-12-12,18:45,Champions Lg,Group stage,Tue,Home,W,2,1,es Sevilla,1.4,1.3,35.0,37456.0,Brice Samba,3-5-1-1,Felix Zwayer,Match Report,,2.0,1.0,40.5,0.0,1,1,2024,Lens
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,sct Celtic,1.6,0.3,61.0,44008.0,Gernot Trauner,4-2-3-1,Irfan Peljto,Match Report,,15.0,4.0,21.3,1.0,0,1,2024,Feyenoord
+8,2023-10-04,18:45,Champions Lg,Group stage,Wed,Away,L,2,3,es Atlético Madrid,2.4,0.8,52.0,61742.0,Gernot Trauner,4-3-3,François Letexier,Match Report,,17.0,7.0,16.8,0.0,0,0,2024,Feyenoord
+11,2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,it Lazio,2.1,2.3,46.0,44031.0,Lutsharel Geertruida,4-3-3,Tobias Stieler,Match Report,,15.0,5.0,17.4,1.0,0,0,2024,Feyenoord
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,0,1,it Lazio,1.4,1.1,64.0,36612.0,Lutsharel Geertruida,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,14.6,1.0,0,0,2024,Feyenoord
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,L,1,3,es Atlético Madrid,1.1,1.3,51.0,43992.0,Gernot Trauner,4-2-3-1,Anthony Taylor,Match Report,,12.0,4.0,13.3,0.0,0,0,2024,Feyenoord
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,sct Celtic,2.1,2.2,53.0,56391.0,Lutsharel Geertruida,4-2-3-1,Benoît Bastien,Match Report,,19.0,7.0,18.4,1.0,0,0,2024,Feyenoord
+5,2023-09-19,18:45,Champions Lg,Group stage,Tue,Away,D,0,0,it Milan,0.3,1.9,47.0,65695.0,Kieran Trippier,4-3-3,José Sánchez,Match Report,,6.0,1.0,20.4,0.0,0,0,2024,Newcastle United
+9,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,W,4,1,fr Paris S-G,0.9,0.9,27.0,52009.0,Jamaal Lascelles,4-3-3,István Kovács,Match Report,,12.0,8.0,17.3,1.0,0,0,2024,Newcastle United
+12,2023-10-25,20:00,Champions Lg,Group stage,Wed,Home,L,0,1,de Dortmund,1.1,1.8,59.0,52024.0,Jamaal Lascelles,4-3-3,Artur Soares Dias,Match Report,,12.0,3.0,16.8,0.0,0,0,2024,Newcastle United
+16,2023-11-07,18:45,Champions Lg,Group stage,Tue,Away,L,0,2,de Dortmund,0.6,1.4,54.0,81365.0,Jamaal Lascelles,4-3-3,Alejandro Hernández,Match Report,,10.0,5.0,20.6,1.0,0,0,2024,Newcastle United
+19,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,fr Paris S-G,1.3,4.4,28.0,46435.0,Jamaal Lascelles,4-3-3,Szymon Marciniak,Match Report,,5.0,2.0,17.6,1.0,0,0,2024,Newcastle United
+23,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,L,1,2,it Milan,1.8,1.9,58.0,52037.0,Jamaal Lascelles,4-3-3,Danny Makkelie,Match Report,,17.0,6.0,18.0,1.0,0,0,2024,Newcastle United
+0,2023-07-25,19:00,Champions Lg,Second qualifying round,Tue,Away,D,2.0,2.0,lt Žalgiris,,,,4864.0,Fernando Muslera,4-2-3-1,Luís Godinho,Match Report,Leg 1 of 2,,,,,0,0,2024,Galatasaray
+1,2023-08-02,21:30,Champions Lg,Second qualifying round,Wed,Home,W,1.0,0.0,lt Žalgiris,,,,41505.0,Fernando Muslera,4-2-3-1,Willy Delajod,Match Report,Leg 2 of 2; Galatasaray won,,,,,0,0,2024,Galatasaray
+2,2023-08-08,21:00,Champions Lg,Third qualifying round,Tue,Away,W,3.0,0.0,si Olimpija,,,,13712.0,Fernando Muslera,4-2-3-1,Andreas Ekberg,Match Report,Leg 1 of 2,,,,,0,0,2024,Galatasaray
+4,2023-08-15,21:00,Champions Lg,Third qualifying round,Tue,Home,W,1.0,0.0,si Olimpija,,,,38383.0,Fernando Muslera,4-2-3-1,Marco Guida,Match Report,Leg 2 of 2; Galatasaray won,,,,,0,0,2024,Galatasaray
+6,2023-08-23,21:00,Champions Lg,Play-off round,Wed,Away,W,3.0,2.0,no Molde,,,51.0,9553.0,Fernando Muslera,4-4-1-1,Anthony Taylor,Match Report,Leg 1 of 2,6.0,3.0,,,0,0,2024,Galatasaray
+7,2023-08-29,22:00,Champions Lg,Play-off round,Tue,Home,W,2.0,1.0,no Molde,,,60.0,47845.0,Fernando Muslera,4-2-3-1,Szymon Marciniak,Match Report,Leg 2 of 2; Galatasaray won,9.0,3.0,,,1,1,2024,Galatasaray
+10,2023-09-20,19:45,Champions Lg,Group stage,Wed,Home,D,2.0,2.0,dk FC Copenhagen,1.1,0.6,63.0,46911.0,Fernando Muslera,4-2-3-1,Georgi Kabakov,Match Report,,14.0,5.0,17.6,0.0,0,0,2024,Galatasaray
+14,2023-10-03,20:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,eng Manchester Utd,2.6,2.3,45.0,73204.0,Fernando Muslera,4-2-3-1,Ivan Kružliak,Match Report,,13.0,4.0,18.4,0.0,0,1,2024,Galatasaray
+17,2023-10-24,19:45,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de Bayern Munich,2.7,1.9,52.0,51776.0,Fernando Muslera,4-2-3-1,Davide Massa,Match Report,,19.0,3.0,17.4,0.0,1,1,2024,Galatasaray
+20,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,de Bayern Munich,0.7,2.5,39.0,75000.0,Fernando Muslera,4-2-3-1,António Nobre,Match Report,,6.0,2.0,16.9,0.0,0,0,2024,Galatasaray
+23,2023-11-29,20:45,Champions Lg,Group stage,Wed,Home,D,3.0,3.0,eng Manchester Utd,1.5,1.6,57.0,51733.0,Fernando Muslera,4-2-3-1,José Sánchez,Match Report,,16.0,7.0,17.4,2.0,0,0,2024,Galatasaray
+26,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,dk FC Copenhagen,1.4,1.3,63.0,34726.0,Fernando Muslera,4-2-3-1,Daniele Orsato,Match Report,,22.0,4.0,13.6,0.0,0,0,2024,Galatasaray
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,L,3.0,4.0,de Bayern Munich,1.7,2.2,41.0,75000.0,Bruno Fernandes,4-2-3-1,Glenn Nyberg,Match Report,,9.0,4.0,11.3,0.0,0,0,2024,Manchester United
+9,2023-10-03,20:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,tr Galatasaray,2.3,2.6,55.0,73204.0,Bruno Fernandes,4-3-3,Ivan Kružliak,Match Report,,16.0,5.0,16.5,1.0,0,0,2024,Manchester United
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,dk FC Copenhagen,1.7,1.9,50.0,73249.0,Bruno Fernandes,4-2-3-1,Marco Guida,Match Report,,15.0,5.0,15.0,0.0,0,0,2024,Manchester United
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,3.0,4.0,dk FC Copenhagen,3.0,2.2,48.0,36099.0,Bruno Fernandes,4-2-3-1,Donatas Rumšas,Match Report,,8.0,7.0,14.5,0.0,1,1,2024,Manchester United
+19,2023-11-29,20:45,Champions Lg,Group stage,Wed,Away,D,3.0,3.0,tr Galatasaray,1.6,1.5,43.0,51733.0,Bruno Fernandes,4-2-3-1,José Sánchez,Match Report,,17.0,4.0,17.3,0.0,0,0,2024,Manchester United
+23,2023-12-12,20:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,de Bayern Munich,0.3,1.2,41.0,73073.0,Bruno Fernandes,4-2-3-1,Espen Eskås,Match Report,,5.0,1.0,24.1,1.0,0,0,2024,Manchester United
+5,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,L,0.0,2.0,at RB Salzburg,1.5,3.3,57.0,60917.0,Nicolás Otamendi,4-2-3-1,Halil Umut Meler,Match Report,,15.0,6.0,13.6,1.0,0,0,2024,Benfica
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,it Inter,0.3,3.8,53.0,66573.0,Nicolás Otamendi,4-2-3-1,Danny Makkelie,Match Report,,6.0,3.0,16.5,0.0,0,0,2024,Benfica
+10,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,es Real Sociedad,0.5,0.9,38.0,56002.0,Nicolás Otamendi,4-2-3-1,Clément Turpin,Match Report,,10.0,3.0,20.5,0.0,0,0,2024,Benfica
+13,2023-11-08,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,3.0,es Real Sociedad,0.8,3.3,48.0,36815.0,Nicolás Otamendi,3-4-3,Anthony Taylor,Match Report,,11.0,4.0,18.1,0.0,0,0,2024,Benfica
+15,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,D,3.0,3.0,it Inter,1.6,3.0,41.0,52944.0,Nicolás Otamendi,4-2-3-1,Andris Treimanis,Match Report,,11.0,5.0,15.2,0.0,0,0,2024,Benfica
+18,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,at RB Salzburg,3.1,1.6,57.0,27134.0,Nicolás Otamendi,4-2-3-1,Daniel Siebert,Match Report,,18.0,6.0,17.7,0.0,0,0,2024,Benfica
+7,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,0.0,pt Benfica,3.3,1.5,43.0,60917.0,Amar Dedić,4-1-2-1-2◆,Halil Umut Meler,Match Report,,12.0,4.0,21.3,0.0,1,2,2024,Red Bull Salzburg
+10,2023-10-03,18:45,Champions Lg,Group stage,Tue,Home,L,0.0,2.0,es Real Sociedad,0.6,1.2,48.0,28227.0,Amar Dedić,4-1-2-1-2◆,Bartosz Frankowski,Match Report,,11.0,1.0,18.2,0.0,0,0,2024,Red Bull Salzburg
+13,2023-10-24,18:45,Champions Lg,Group stage,Tue,Away,L,1.0,2.0,it Inter,0.5,2.3,45.0,71825.0,Andreas Ulmer,4-2-3-1,François Letexier,Match Report,,11.0,6.0,20.8,0.0,0,0,2024,Red Bull Salzburg
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,L,0.0,1.0,it Inter,0.8,2.0,50.0,30071.0,Andreas Ulmer,4-2-2-2,Serdar Gözübüyük,Match Report,,14.0,4.0,20.1,1.0,0,0,2024,Red Bull Salzburg
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,D,0.0,0.0,es Real Sociedad,0.6,1.3,29.0,34419.0,Andreas Ulmer,4-2-3-1,Mykola Balakin,Match Report,,4.0,1.0,15.8,0.0,0,0,2024,Red Bull Salzburg
+22,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,pt Benfica,1.6,3.1,43.0,27134.0,Amar Dedić,4-1-2-1-2◆,Daniel Siebert,Match Report,,19.0,6.0,18.3,0.0,0,0,2024,Red Bull Salzburg
+4,2023-08-23,22:00,Champions Lg,Play-off round,Wed,Away,D,0.0,0.0,il Maccabi Haifa,,,40.0,29864.0,Mohamed Aly Camara,4-1-3-2,Davide Massa,Match Report,Leg 1 of 2,8.0,0.0,,,0,0,2024,Young Boys
+5,2023-08-29,21:00,Champions Lg,Play-off round,Tue,Home,W,3.0,0.0,il Maccabi Haifa,,,41.0,31500.0,Mohamed Aly Camara,4-4-2◆,Slavko Vinčič,Match Report,Leg 2 of 2; Young Boys won,7.0,3.0,,,0,0,2024,Young Boys
+7,2023-09-19,18:45,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de RB Leipzig,0.5,2.6,55.0,31500.0,Mohamed Aly Camara,5-3-2,Enea Jorgji,Match Report,,8.0,3.0,20.1,0.0,0,0,2024,Young Boys
+11,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,D,2.0,2.0,rs Red Star,2.6,2.6,50.0,47201.0,Mohamed Aly Camara,4-3-3,William Collum,Match Report,,17.0,5.0,19.0,0.0,1,1,2024,Young Boys
+14,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,3.0,eng Manchester City,0.4,4.2,32.0,31500.0,Mohamed Aly Camara,4-3-3,Morten Krogh,Match Report,,10.0,4.0,23.1,0.0,0,0,2024,Young Boys
+17,2023-11-07,20:00,Champions Lg,Group stage,Tue,Away,L,0.0,3.0,eng Manchester City,0.0,3.4,29.0,51049.0,Mohamed Aly Camara,5-4-1,Erik Lambrechts,Match Report,,0.0,0.0,,0.0,0,0,2024,Young Boys
+20,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,rs Red Star,1.3,1.8,47.0,31500.0,Mohamed Aly Camara,4-4-2,Danny Makkelie,Match Report,,22.0,6.0,19.6,1.0,0,0,2024,Young Boys
+24,2023-12-13,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,de RB Leipzig,1.5,0.7,47.0,43331.0,Fabian Lustenberger,4-4-2,Manfredas Lukjančukas,Match Report,,16.0,3.0,19.4,1.0,0,0,2024,Young Boys
+0,2023-08-08,20:00,Champions Lg,Third qualifying round,Tue,Home,W,3.0,0.0,rs TSC Bačka Top,,,,22186.0,Ricardo Horta,4-3-3,Harald Lechner,Match Report,Leg 1 of 2,,,,,0,0,2024,Braga
+2,2023-08-15,20:00,Champions Lg,Third qualifying round,Tue,Away,W,4.0,1.0,rs TSC Bačka Top,,,,4200.0,Ricardo Horta,4-3-3,Jakob Kehlet,Match Report,Leg 2 of 2; Braga won,,,,,0,0,2024,Braga
+4,2023-08-23,20:00,Champions Lg,Play-off round,Wed,Home,W,2.0,1.0,gr Panathinaikos,,,54.0,23401.0,Ricardo Horta,4-2-3-1,Felix Zwayer,Match Report,Leg 1 of 2,17.0,5.0,,,0,0,2024,Braga
+5,2023-08-29,22:00,Champions Lg,Play-off round,Tue,Away,W,1.0,0.0,gr Panathinaikos,,,42.0,61390.0,Ricardo Horta,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Braga won,19.0,6.0,,,0,0,2024,Braga
+9,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,L,1.0,2.0,it Napoli,1.4,1.7,53.0,18422.0,Ricardo Horta,4-2-3-1,Serdar Gözübüyük,Match Report,,16.0,2.0,15.0,1.0,0,0,2024,Braga
+12,2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,de Union Berlin,1.2,2.0,63.0,73445.0,Ricardo Horta,4-2-3-1,Srđan Jovanović,Match Report,,12.0,6.0,19.1,0.0,0,0,2024,Braga
+14,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,L,1.0,2.0,es Real Madrid,1.5,0.9,48.0,29820.0,Ricardo Horta,4-2-3-1,Michael Oliver,Match Report,,16.0,3.0,15.1,0.0,0,0,2024,Braga
+17,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,3.0,es Real Madrid,1.4,3.2,52.0,68509.0,Ricardo Horta,4-3-3,Halil Umut Meler,Match Report,,8.0,3.0,23.5,0.0,0,1,2024,Braga
+19,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,de Union Berlin,1.8,0.8,53.0,15855.0,Ricardo Horta,4-2-3-1,Clément Turpin,Match Report,,18.0,1.0,14.2,0.0,0,0,2024,Braga
+22,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,it Napoli,1.0,1.4,50.0,37841.0,Ricardo Horta,4-2-3-1,Slavko Vinčič,Match Report,,19.0,5.0,18.9,1.0,0,0,2024,Braga
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,nl Feyenoord,0.3,1.6,39.0,44008.0,Callum McGregor,4-3-3,Irfan Peljto,Match Report,,8.0,3.0,22.6,0.0,0,0,2024,Celtic
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,L,1.0,2.0,it Lazio,1.1,0.7,55.0,56063.0,Callum McGregor,4-3-3,Donatas Rumšas,Match Report,,11.0,4.0,15.5,0.0,0,0,2024,Celtic
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Home,D,2.0,2.0,es Atlético Madrid,0.9,2.1,53.0,55844.0,Callum McGregor,4-3-3,Felix Zwayer,Match Report,,6.0,3.0,13.1,0.0,0,0,2024,Celtic
+15,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,6.0,es Atlético Madrid,0.0,2.9,35.0,60863.0,Callum McGregor,4-3-3,Ivan Kružliak,Match Report,,1.0,1.0,28.2,0.0,0,0,2024,Celtic
+18,2023-11-28,18:45,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,it Lazio,0.4,2.3,54.0,50555.0,Callum McGregor,4-3-3,Halil Umut Meler,Match Report,,7.0,4.0,17.7,0.0,0,0,2024,Celtic
+22,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,nl Feyenoord,2.2,2.1,47.0,56391.0,Callum McGregor,4-3-3,Benoît Bastien,Match Report,,12.0,6.0,18.7,0.0,1,1,2024,Celtic
+4,2023-08-22,21:00,Champions Lg,Play-off round,Tue,Home,W,1.0,0.0,gr AEK Athens,,,36.0,13376.0,Toby Alderweireld,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,7.0,4.0,,,0,0,2024,Antwerp
+5,2023-08-30,22:00,Champions Lg,Play-off round,Wed,Away,W,2.0,1.0,gr AEK Athens,,,37.0,29300.0,Toby Alderweireld,4-2-3-1,Jesús Gil,Match Report,Leg 2 of 2; Antwerp won,7.0,3.0,,,0,0,2024,Antwerp
+8,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,5.0,es Barcelona,0.3,2.8,30.0,40989.0,Toby Alderweireld,4-2-3-1,Radu Petrescu,Match Report,,3.0,1.0,13.7,0.0,0,0,2024,Antwerp
+12,2023-10-04,18:45,Champions Lg,Group stage,Wed,Home,L,2.0,3.0,ua Shakhtar,1.8,2.3,53.0,13509.0,Toby Alderweireld,4-3-3,Rade Obrenović,Match Report,,12.0,6.0,21.9,1.0,0,1,2024,Antwerp
+15,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,4.0,pt Porto,0.7,1.3,55.0,13651.0,Toby Alderweireld,4-2-3-1,Benoît Bastien,Match Report,,11.0,2.0,16.5,0.0,0,0,2024,Antwerp
+18,2023-11-07,20:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,pt Porto,0.6,2.2,33.0,44830.0,Arthur Vermeeren,4-2-3-1,Maurizio Mariani,Match Report,,4.0,1.0,14.9,0.0,0,0,2024,Antwerp
+21,2023-11-28,19:45,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,ua Shakhtar,1.1,1.3,57.0,47209.0,Toby Alderweireld,4-2-3-1,Bartosz Frankowski,Match Report,,14.0,6.0,15.4,0.0,0,0,2024,Antwerp
+24,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,2.0,es Barcelona,1.7,1.1,31.0,13550.0,Toby Alderweireld,4-5-1,Marco Guida,Match Report,,11.0,5.0,15.6,0.0,0,0,2024,Antwerp
+5,2023-09-20,18:45,Champions Lg,Group stage,Wed,Away,L,0.0,1.0,es Real Madrid,0.2,3.7,25.0,65207.0,Sheraldo Becker,3-5-2,Espen Eskås,Match Report,,4.0,0.0,12.9,0.0,0,0,2024,Union Berlin
+8,2023-10-03,18:45,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,pt Braga,2.0,1.2,37.0,73445.0,Sheraldo Becker,5-3-2,Srđan Jovanović,Match Report,,13.0,5.0,16.7,1.0,0,0,2024,Union Berlin
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,it Napoli,0.4,0.2,41.0,72062.0,Christopher Trimmel,3-1-4-2,Irfan Peljto,Match Report,,11.0,2.0,19.8,0.0,0,0,2024,Union Berlin
+15,2023-11-08,18:45,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,it Napoli,1.1,1.7,27.0,42449.0,Rani Khedira,3-5-2,Danny Makkelie,Match Report,,15.0,6.0,19.9,1.0,0,0,2024,Union Berlin
+18,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,pt Braga,0.8,1.8,47.0,15855.0,Rani Khedira,4-1-4-1,Clément Turpin,Match Report,,6.0,2.0,12.8,0.0,0,0,2024,Union Berlin
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,es Real Madrid,1.1,2.9,26.0,73420.0,Rani Khedira,5-3-2,Rade Obrenović,Match Report,,8.0,5.0,14.5,0.0,0,0,2024,Union Berlin
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,fr Lens,0.8,1.3,56.0,33544.0,Ivan Rakitić,4-2-3-1,Tobias Stieler,Match Report,,10.0,5.0,13.1,0.0,0,0,2024,Sevilla
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,nl PSV Eindhoven,1.3,2.6,37.0,34206.0,Jesús Navas,4-2-3-1,Daniele Orsato,Match Report,,10.0,2.0,15.8,0.0,0,0,2024,Sevilla
+12,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,eng Arsenal,0.8,1.9,57.0,39595.0,Jesús Navas,4-2-3-1,Glenn Nyberg,Match Report,,11.0,2.0,17.7,0.0,0,0,2024,Sevilla
+16,2023-11-08,20:00,Champions Lg,Group stage,Wed,Away,L,0,2,eng Arsenal,0.0,1.5,38.0,60024.0,Fernando,4-2-3-1,István Kovács,Match Report,,1.0,1.0,22.0,0.0,0,0,2024,Sevilla
+19,2023-11-29,18:45,Champions Lg,Group stage,Wed,Home,L,2,3,nl PSV Eindhoven,1.8,2.2,40.0,29403.0,Jesús Navas,4-3-3,Davide Massa,Match Report,,11.0,4.0,15.6,0.0,0,0,2024,Sevilla
+23,2023-12-12,18:45,Champions Lg,Group stage,Tue,Away,L,1,2,fr Lens,1.3,1.4,65.0,37456.0,Ivan Rakitić,3-5-1-1,Felix Zwayer,Match Report,,9.0,3.0,18.4,0.0,1,1,2024,Sevilla
+7,2023-09-19,20:00,Champions Lg,Group stage,Tue,Away,L,1,3,eng Manchester City,0.8,4.1,24.0,50204.0,Aleksandar Dragović,5-3-2,João Pinheiro,Match Report,,3.0,2.0,19.3,0.0,0,0,2024,Red Star Belgrade
+9,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,ch Young Boys,2.6,2.6,50.0,47201.0,Aleksandar Dragović,4-2-3-1,William Collum,Match Report,,20.0,9.0,13.7,0.0,0,0,2024,Red Star Belgrade
+12,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,L,1,3,de RB Leipzig,1.0,3.1,35.0,42209.0,Aleksandar Dragović,3-5-2,José Sánchez,Match Report,,16.0,4.0,19.9,0.0,0,0,2024,Red Star Belgrade
+16,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,de RB Leipzig,1.5,2.3,50.0,41961.0,Aleksandar Dragović,5-3-2,Daniele Orsato,Match Report,,15.0,3.0,18.1,0.0,0,0,2024,Red Star Belgrade
+19,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,L,0,2,ch Young Boys,1.8,1.3,53.0,31500.0,Aleksandar Dragović,4-1-2-1-2◆,Danny Makkelie,Match Report,,18.0,3.0,17.6,0.0,0,0,2024,Red Star Belgrade
+22,2023-12-13,18:45,Champions Lg,Group stage,Wed,Home,L,2,3,eng Manchester City,1.1,1.4,32.0,49443.0,Aleksandar Dragović,5-3-2,Əliyar Ağayev,Match Report,,11.0,6.0,17.4,0.0,0,0,2024,Red Star Belgrade
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,fr Paris S-G,0.7,2.4,33.0,47379.0,Emre Can,3-5-2,Jesús Gil,Match Report,,14.0,1.0,19.0,0.0,0,0,2023,Dortmund
+8,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,D,0.0,0.0,it Milan,1.0,1.6,57.0,81365.0,Emre Can,4-2-3-1,Szymon Marciniak,Match Report,,18.0,3.0,20.2,2.0,0,0,2023,Dortmund
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Away,W,1.0,0.0,eng Newcastle Utd,1.8,1.1,41.0,52024.0,Emre Can,4-3-3,Artur Soares Dias,Match Report,,13.0,5.0,17.4,0.0,0,0,2023,Dortmund
+15,2023-11-07,18:45,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,eng Newcastle Utd,1.4,0.6,46.0,81365.0,Gregor Kobel,4-2-3-1,Alejandro Hernández,Match Report,,17.0,8.0,19.6,0.0,0,0,2023,Dortmund
+18,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,it Milan,1.8,2.1,46.0,75292.0,Emre Can,4-2-3-1,István Kovács,Match Report,,11.0,3.0,18.7,0.0,1,1,2023,Dortmund
+22,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,fr Paris S-G,1.4,2.8,41.0,81365.0,Gregor Kobel,4-2-3-1,Glenn Nyberg,Match Report,,10.0,6.0,19.3,0.0,0,0,2023,Dortmund
+31,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Away,D,1.0,1.0,nl PSV Eindhoven,0.9,1.6,45.0,34950.0,Emre Can,4-2-3-1,Srđan Jovanović,Match Report,Leg 1 of 2,8.0,5.0,13.3,0.0,0,0,2023,Dortmund
+35,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Home,W,2.0,0.0,nl PSV Eindhoven,1.5,1.5,48.0,81365.0,Emre Can,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Dortmund won,15.0,7.0,13.0,0.0,0,0,2023,Dortmund
+39,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,L,1.0,2.0,es Atlético Madrid,0.9,2.2,66.0,68641.0,Emre Can,4-2-3-1,Marco Guida,Match Report,Leg 1 of 2,12.0,4.0,18.8,1.0,0,0,2023,Dortmund
+41,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,W,4.0,2.0,es Atlético Madrid,1.5,1.9,52.0,,Emre Can,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Dortmund won,19.0,9.0,16.9,0.0,0,0,2023,Dortmund
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,de Dortmund,2.4,0.7,67.0,47379.0,Marquinhos,4-3-3,Jesús Gil,Match Report,,16.0,2.0,18.5,0.0,1,1,2023,Paris Saint Germain
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,L,1.0,4.0,eng Newcastle Utd,0.9,0.9,73.0,52009.0,Marquinhos,4-2-3-1,István Kovács,Match Report,,11.0,2.0,21.4,0.0,0,0,2023,Paris Saint Germain
+11,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,0.0,it Milan,1.3,0.6,61.0,45962.0,Marquinhos,4-3-3,Slavko Vinčič,Match Report,,13.0,7.0,19.2,0.0,0,0,2023,Paris Saint Germain
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,1.0,2.0,it Milan,1.5,1.4,69.0,75649.0,Marquinhos,4-3-3,Jesús Gil,Match Report,,17.0,6.0,17.0,0.0,0,0,2023,Paris Saint Germain
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,eng Newcastle Utd,4.4,1.3,72.0,46435.0,Kylian Mbappé,4-3-3,Szymon Marciniak,Match Report,,30.0,6.0,17.9,0.0,1,1,2023,Paris Saint Germain
+20,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,de Dortmund,2.8,1.4,59.0,81365.0,Marquinhos,3-4-3,Glenn Nyberg,Match Report,,18.0,5.0,17.3,1.0,0,0,2023,Paris Saint Germain
+31,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Home,W,2.0,0.0,es Real Sociedad,1.2,0.7,62.0,46435.0,Marquinhos,4-3-3,Marco Guida,Match Report,Leg 1 of 2,14.0,6.0,17.4,0.0,0,0,2023,Paris Saint Germain
+35,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Away,W,2.0,1.0,es Real Sociedad,1.4,0.9,56.0,39336.0,Kylian Mbappé,4-3-1-2,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,10.0,7.0,16.5,0.0,0,0,2023,Paris Saint Germain
+42,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,L,2.0,3.0,es Barcelona,1.2,1.9,59.0,47470.0,Marquinhos,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2,18.0,6.0,17.9,0.0,0,0,2023,Paris Saint Germain
+43,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,W,4.0,1.0,es Barcelona,2.3,1.1,67.0,,Marquinhos,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won,20.0,8.0,17.7,1.0,1,1,2023,Paris Saint Germain
+7,2023-09-19,20:00,Champions Lg,Group stage,Tue,Home,W,3,1,rs Red Star,4.1,0.8,76.0,50204.0,Kyle Walker,4-2-3-1,João Pinheiro,Match Report,,37.0,16.0,15.2,1.0,0,0,2023,Manchester City
+11,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,W,3,1,de RB Leipzig,2.2,0.5,68.0,45228.0,Kyle Walker,3-2-4-1,Artur Soares Dias,Match Report,,18.0,5.0,14.7,1.0,0,0,2023,Manchester City
+14,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,W,3,1,ch Young Boys,4.2,0.4,68.0,31500.0,Rúben Dias,3-2-4-1,Morten Krogh,Match Report,,25.0,12.0,15.4,0.0,1,1,2023,Manchester City
+17,2023-11-07,20:00,Champions Lg,Group stage,Tue,Home,W,3,0,ch Young Boys,3.4,0.0,71.0,51049.0,Kyle Walker,3-2-4-1,Erik Lambrechts,Match Report,,26.0,8.0,16.1,1.0,1,1,2023,Manchester City
+20,2023-11-28,20:00,Champions Lg,Group stage,Tue,Home,W,3,2,de RB Leipzig,1.8,0.5,70.0,51402.0,Kyle Walker,3-2-4-1,Glenn Nyberg,Match Report,,14.0,6.0,14.4,0.0,0,0,2023,Manchester City
+24,2023-12-13,18:45,Champions Lg,Group stage,Wed,Away,W,3,2,rs Red Star,1.4,1.1,68.0,49443.0,John Stones,4-2-3-1,Əliyar Ağayev,Match Report,,9.0,2.0,19.2,0.0,1,1,2023,Manchester City
+34,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Away,W,3,1,dk FC Copenhagen,3.3,0.3,79.0,35853.0,Kyle Walker,4-2-3-1,José Sánchez,Match Report,Leg 1 of 2,27.0,12.0,17.4,4.0,0,0,2023,Manchester City
+40,2024-03-06,20:00,Champions Lg,Round of 16,Wed,Home,W,3,1,dk FC Copenhagen,0.8,1.2,68.0,51531.0,Rúben Dias,4-2-3-1,Espen Eskås,Match Report,Leg 2 of 2; Manchester City won,12.0,3.0,14.8,0.0,0,0,2023,Manchester City
+46,2024-04-09,21:00,Champions Lg,Quarter-finals,Tue,Away,D,3,3,es Real Madrid,0.8,0.7,61.0,76680.0,Rúben Dias,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,12.0,6.0,19.7,2.0,0,0,2023,Manchester City
+5,2023-09-20,18:45,Champions Lg,Group stage,Wed,Home,W,1.0,0.0,de Union Berlin,3.7,0.2,75.0,65207.0,Nacho,4-3-1-2,Espen Eskås,Match Report,,32.0,7.0,16.2,1.0,0,0,2023,Real Madrid
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,it Napoli,1.4,1.9,50.0,51649.0,Nacho,4-3-1-2,Clément Turpin,Match Report,,18.0,5.0,16.4,0.0,0,0,2023,Real Madrid
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,pt Braga,0.9,1.5,52.0,29820.0,Nacho,4-3-1-2,Michael Oliver,Match Report,,13.0,6.0,21.2,0.0,0,0,2023,Real Madrid
+15,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,0.0,pt Braga,3.2,1.4,48.0,68509.0,Nacho,4-3-1-2,Halil Umut Meler,Match Report,,18.0,7.0,14.7,0.0,0,0,2023,Real Madrid
+18,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,W,4.0,2.0,it Napoli,2.8,1.4,53.0,73562.0,Dani Carvajal,4-2-2-2,François Letexier,Match Report,,20.0,9.0,13.6,0.0,0,0,2023,Real Madrid
+21,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,de Union Berlin,2.9,1.1,74.0,73420.0,Nacho,4-2-2-2,Rade Obrenović,Match Report,,22.0,8.0,17.2,0.0,0,1,2023,Real Madrid
+34,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Away,W,1.0,0.0,de RB Leipzig,1.4,1.4,50.0,45028.0,Nacho,4-3-1-2,Irfan Peljto,Match Report,Leg 1 of 2,15.0,3.0,16.0,0.0,0,0,2023,Real Madrid
+38,2024-03-06,21:00,Champions Lg,Round of 16,Wed,Home,D,1.0,1.0,de RB Leipzig,0.8,1.0,53.0,76126.0,Nacho,4-3-3,Davide Massa,Match Report,Leg 2 of 2; Real Madrid won,11.0,3.0,18.3,0.0,0,0,2023,Real Madrid
+42,2024-04-09,21:00,Champions Lg,Quarter-finals,Tue,Home,D,3.0,3.0,eng Manchester City,0.7,0.8,39.0,76680.0,Dani Carvajal,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,14.0,5.0,20.4,0.0,0,0,2023,Real Madrid
+4,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,it Lazio,0.9,1.2,51.0,46168.0,Jan Oblak,5-3-2,Slavko Vinčič,Match Report,,9.0,4.0,19.1,0.0,0,0,2023,Atletico Madrid
+8,2023-10-04,18:45,Champions Lg,Group stage,Wed,Home,W,3,2,nl Feyenoord,0.8,2.4,48.0,61742.0,Koke,3-5-2,François Letexier,Match Report,,7.0,3.0,23.8,0.0,0,0,2023,Atletico Madrid
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Away,D,2,2,sct Celtic,2.1,0.9,47.0,55844.0,Koke,3-5-2,Felix Zwayer,Match Report,,14.0,5.0,18.5,0.0,0,1,2023,Atletico Madrid
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,6,0,sct Celtic,2.9,0.0,65.0,60863.0,Koke,5-3-2,Ivan Kružliak,Match Report,,27.0,12.0,14.9,0.0,0,0,2023,Atletico Madrid
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,W,3,1,nl Feyenoord,1.3,1.1,49.0,43992.0,Koke,5-3-2,Anthony Taylor,Match Report,,9.0,3.0,14.7,0.0,0,0,2023,Atletico Madrid
+20,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,it Lazio,1.3,0.9,57.0,63574.0,Jan Oblak,3-5-2,Serdar Gözübüyük,Match Report,,16.0,4.0,16.5,1.0,0,0,2023,Atletico Madrid
+36,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Away,L,0,1,it Inter,0.6,2.3,44.0,73709.0,Koke,3-5-2,István Kovács,Match Report,Leg 1 of 2,7.0,0.0,19.1,0.0,0,0,2023,Atletico Madrid
+41,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Home,W,2 (3),1 (2),it Inter,2.7,1.6,48.0,69196.0,Koke,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Atlético Madrid won; Atlético Madrid won on penalty kicks following extra time,23.0,9.0,15.5,1.0,0,0,2023,Atletico Madrid
+44,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Home,W,2,1,de Dortmund,2.2,0.9,34.0,68641.0,Koke,3-5-2,Marco Guida,Match Report,Leg 1 of 2,14.0,9.0,14.5,0.0,0,0,2023,Atletico Madrid
+46,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Away,L,2,4,de Dortmund,1.9,1.5,48.0,,Koke,3-5-2,Slavko Vinčič,Match Report,Leg 2 of 2; Dortmund won,10.0,3.0,13.7,0.0,0,0,2023,Atletico Madrid
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,W,4.0,3.0,eng Manchester Utd,2.2,1.7,59.0,75000.0,Joshua Kimmich,4-2-3-1,Glenn Nyberg,Match Report,,18.0,8.0,16.6,0.0,1,1,2023,Bayern Munich
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,dk FC Copenhagen,0.9,0.9,57.0,35690.0,Joshua Kimmich,4-2-3-1,Orel Grinfeeld,Match Report,,15.0,5.0,17.5,1.0,0,0,2023,Bayern Munich
+12,2023-10-24,19:45,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,tr Galatasaray,1.9,2.7,48.0,51776.0,Joshua Kimmich,4-2-3-1,Davide Massa,Match Report,,14.0,6.0,14.9,1.0,0,0,2023,Bayern Munich
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,tr Galatasaray,2.5,0.7,61.0,75000.0,Manuel Neuer,4-2-3-1,António Nobre,Match Report,,16.0,4.0,13.6,0.0,0,0,2023,Bayern Munich
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0.0,0.0,dk FC Copenhagen,0.7,0.7,62.0,75000.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,9.0,2.0,16.7,1.0,0,0,2023,Bayern Munich
+21,2023-12-12,20:00,Champions Lg,Group stage,Tue,Away,W,1.0,0.0,eng Manchester Utd,1.2,0.3,59.0,73073.0,Manuel Neuer,4-2-3-1,Espen Eskås,Match Report,,10.0,3.0,16.4,0.0,0,0,2023,Bayern Munich
+30,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0.0,1.0,it Lazio,1.1,1.6,61.0,57470.0,Manuel Neuer,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,17.0,0.0,17.6,1.0,0,0,2023,Bayern Munich
+34,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,W,3.0,0.0,it Lazio,3.5,0.4,60.0,75000.0,Manuel Neuer,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Bayern Munich won,24.0,7.0,16.0,0.0,0,0,2023,Bayern Munich
+39,2024-04-09,20:00,Champions Lg,Quarter-finals,Tue,Away,D,2.0,2.0,eng Arsenal,1.9,1.0,41.0,60221.0,Manuel Neuer,4-2-3-1,Glenn Nyberg,Match Report,Leg 1 of 2,7.0,1.0,20.5,0.0,1,1,2023,Bayern Munich
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,5.0,0.0,be Antwerp,2.8,0.3,70.0,40989.0,Marc-André ter Stegen,4-3-3,Radu Petrescu,Match Report,,22.0,9.0,13.8,0.0,0,0,2023,Barcelona
+9,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,W,1.0,0.0,pt Porto,1.3,0.7,56.0,49722.0,Marc-André ter Stegen,4-3-3,Anthony Taylor,Match Report,,14.0,4.0,20.3,0.0,0,0,2023,Barcelona
+12,2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,ua Shakhtar,2.6,0.9,54.0,41409.0,Marc-André ter Stegen,4-3-3,Ivan Kružliak,Match Report,,19.0,6.0,17.3,3.0,0,0,2023,Barcelona
+15,2023-11-07,19:45,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,ua Shakhtar,0.9,0.9,67.0,49147.0,Marc-André ter Stegen,4-3-3,Irfan Peljto,Match Report,,13.0,1.0,18.2,0.0,0,0,2023,Barcelona
+18,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,1.0,pt Porto,1.8,1.1,54.0,43533.0,Ronald Araújo,4-3-3,Daniele Orsato,Match Report,,21.0,7.0,16.3,0.0,0,0,2023,Barcelona
+21,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,L,2.0,3.0,be Antwerp,1.1,1.7,69.0,13550.0,Sergi Roberto,4-3-3,Marco Guida,Match Report,,11.0,3.0,18.9,0.0,0,0,2023,Barcelona
+36,2024-02-21,21:00,Champions Lg,Round of 16,Wed,Away,D,1.0,1.0,it Napoli,0.7,0.9,50.0,49529.0,Marc-André ter Stegen,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,12.0,6.0,18.6,0.0,0,0,2023,Barcelona
+40,2024-03-12,21:00,Champions Lg,Round of 16,Tue,Home,W,3.0,1.0,it Napoli,2.7,1.3,48.0,50301.0,Marc-André ter Stegen,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,24.0,10.0,16.7,1.0,0,0,2023,Barcelona
+43,2024-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,W,3.0,2.0,fr Paris S-G,1.9,1.2,41.0,47470.0,Sergi Roberto,4-3-3,Anthony Taylor,Match Report,Leg 1 of 2,15.0,6.0,16.9,1.0,0,0,2023,Barcelona
+45,2024-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1.0,4.0,fr Paris S-G,1.1,2.3,33.0,,Marc-André ter Stegen,4-3-3,István Kovács,Match Report,Leg 2 of 2; Paris S-G won,7.0,3.0,14.2,0.0,0,0,2023,Barcelona
+6,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,W,4,0,nl PSV Eindhoven,2.3,0.5,58.0,58860.0,Martin Ødegaard,4-3-3,Felix Zwayer,Match Report,,18.0,8.0,14.4,0.0,0,0,2023,Arsenal
+10,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,fr Lens,1.5,0.7,66.0,37040.0,Martin Ødegaard,4-3-3,Marco Guida,Match Report,,11.0,6.0,11.8,0.0,0,0,2023,Arsenal
+13,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,es Sevilla,1.9,0.8,43.0,39595.0,Martin Ødegaard,4-3-3,Glenn Nyberg,Match Report,,14.0,4.0,16.4,0.0,0,0,2023,Arsenal
+17,2023-11-08,20:00,Champions Lg,Group stage,Wed,Home,W,2,0,es Sevilla,1.5,0.0,62.0,60024.0,Jorginho,4-3-3,István Kovács,Match Report,,11.0,3.0,16.3,1.0,0,0,2023,Arsenal
+20,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,W,6,0,fr Lens,2.6,0.4,48.0,59987.0,Martin Ødegaard,4-3-3,Artur Soares Dias,Match Report,,13.0,7.0,14.8,0.0,1,1,2023,Arsenal
+24,2023-12-12,18:45,Champions Lg,Group stage,Tue,Away,D,1,1,nl PSV Eindhoven,1.0,1.3,58.0,35000.0,Jorginho,4-3-3,Tobias Stieler,Match Report,,12.0,3.0,15.4,0.0,0,0,2023,Arsenal
+35,2024-02-21,20:00,Champions Lg,Round of 16,Wed,Away,L,0,1,pt Porto,0.4,1.0,64.0,49111.0,Martin Ødegaard,4-3-3,Serdar Gözübüyük,Match Report,Leg 1 of 2,7.0,0.0,16.0,0.0,0,0,2023,Arsenal
+39,2024-03-12,20:00,Champions Lg,Round of 16,Tue,Home,W,1 (4),0 (2),pt Porto,0.9,0.5,58.0,60257.0,Martin Ødegaard,4-3-3,Clément Turpin,Match Report,Leg 2 of 2; Arsenal won; Arsenal won on penalty kicks following extra time,13.0,4.0,13.0,0.0,0,0,2023,Arsenal
+43,2024-04-09,20:00,Champions Lg,Quarter-finals,Tue,Home,D,2,2,de Bayern Munich,1.0,1.9,59.0,60221.0,Martin Ødegaard,4-3-3,Glenn Nyberg,Match Report,Leg 1 of 2,13.0,4.0,16.7,0.0,0,0,2023,Arsenal
+5,2023-09-19,22:00,Champions Lg,Group stage,Tue,Away,W,3,1,ua Shakhtar,1.8,0.5,54.0,46729.0,Pepe,4-2-3-1,Davide Massa,Match Report,,13.0,9.0,16.4,0.0,0,0,2023,Porto
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,L,0,1,es Barcelona,0.7,1.3,44.0,49722.0,Diogo Costa,4-4-2,Anthony Taylor,Match Report,,13.0,5.0,21.2,0.0,0,0,2023,Porto
+10,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,W,4,1,be Antwerp,1.3,0.7,45.0,13651.0,Pepe,4-4-2,Benoît Bastien,Match Report,,11.0,7.0,13.3,0.0,0,0,2023,Porto
+13,2023-11-07,20:00,Champions Lg,Group stage,Tue,Home,W,2,0,be Antwerp,2.2,0.6,67.0,44830.0,Pepe,4-4-2,Maurizio Mariani,Match Report,,15.0,5.0,16.4,0.0,1,1,2023,Porto
+15,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,es Barcelona,1.1,1.8,46.0,43533.0,Pepe,4-4-2,Daniele Orsato,Match Report,,13.0,5.0,15.1,0.0,0,0,2023,Porto
+18,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,W,5,3,ua Shakhtar,2.7,1.5,49.0,48113.0,Pepe,4-4-2,István Kovács,Match Report,,20.0,9.0,16.2,0.0,0,0,2023,Porto
+28,2024-02-21,20:00,Champions Lg,Round of 16,Wed,Home,W,1,0,eng Arsenal,1.0,0.4,36.0,49111.0,Pepe,4-2-3-1,Serdar Gözübüyük,Match Report,Leg 1 of 2,8.0,2.0,13.1,0.0,0,0,2023,Porto
+32,2024-03-12,20:00,Champions Lg,Round of 16,Tue,Away,L,0 (2),1 (4),eng Arsenal,0.5,0.9,42.0,60257.0,Pepe,4-2-3-1,Clément Turpin,Match Report,Leg 2 of 2; Arsenal won; Arsenal won on penalty kicks following extra time,10.0,3.0,19.9,1.0,0,0,2023,Porto
+4,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,es Real Sociedad,0.5,1.3,56.0,36591.0,Lautaro Martínez,3-5-2,Michael Oliver,Match Report,,6.0,1.0,14.7,0.0,0,0,2023,Internazionale
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,pt Benfica,3.8,0.3,47.0,66573.0,Lautaro Martínez,3-5-2,Danny Makkelie,Match Report,,21.0,7.0,14.3,1.0,0,0,2023,Internazionale
+11,2023-10-24,18:45,Champions Lg,Group stage,Tue,Home,W,2,1,at RB Salzburg,2.3,0.5,55.0,71825.0,Lautaro Martínez,3-5-2,François Letexier,Match Report,,16.0,2.0,16.2,0.0,1,1,2023,Internazionale
+14,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,W,1,0,at RB Salzburg,2.0,0.8,50.0,30071.0,Alessandro Bastoni,3-5-2,Serdar Gözübüyük,Match Report,,16.0,5.0,19.7,1.0,1,1,2023,Internazionale
+17,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,D,3,3,pt Benfica,3.0,1.6,59.0,52944.0,Stefan de Vrij,3-1-4-2,Andris Treimanis,Match Report,,13.0,7.0,18.8,1.0,1,1,2023,Internazionale
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,D,0,0,es Real Sociedad,0.7,0.7,45.0,69010.0,Matteo Darmian,3-5-2,Sandro Schärer,Match Report,,10.0,2.0,15.7,0.0,0,0,2023,Internazionale
+33,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Home,W,1,0,es Atlético Madrid,2.3,0.6,56.0,73709.0,Lautaro Martínez,3-5-2,István Kovács,Match Report,Leg 1 of 2,19.0,5.0,16.3,0.0,0,0,2023,Internazionale
+38,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Away,L,1 (2),2 (3),es Atlético Madrid,1.6,2.7,52.0,69196.0,Lautaro Martínez,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Atlético Madrid won; Atlético Madrid won on penalty kicks following extra time,15.0,5.0,19.1,1.0,0,0,2023,Internazionale
+5,2023-09-19,18:45,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,ch Young Boys,2.6,0.5,45.0,31500.0,Kevin Kampl,4-4-2,Enea Jorgji,Match Report,,21.0,8.0,15.1,0.0,0,0,2023,RB Leipzig
+9,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,3.0,eng Manchester City,0.5,2.2,32.0,45228.0,Emil Forsberg,4-2-3-1,Artur Soares Dias,Match Report,,3.0,1.0,25.2,0.0,0,0,2023,RB Leipzig
+12,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,1.0,rs Red Star,3.1,1.0,65.0,42209.0,Kevin Kampl,4-4-2,José Sánchez,Match Report,,27.0,10.0,16.5,2.0,0,0,2023,RB Leipzig
+16,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,W,2.0,1.0,rs Red Star,2.3,1.5,50.0,41961.0,Emil Forsberg,4-4-2,Daniele Orsato,Match Report,,24.0,4.0,20.4,0.0,0,0,2023,RB Leipzig
+19,2023-11-28,20:00,Champions Lg,Group stage,Tue,Away,L,2.0,3.0,eng Manchester City,0.5,1.8,30.0,51402.0,Emil Forsberg,5-4-1,Glenn Nyberg,Match Report,,5.0,3.0,21.2,0.0,0,0,2023,RB Leipzig
+22,2023-12-13,18:45,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,ch Young Boys,0.7,1.5,53.0,43331.0,Péter Gulácsi,4-2-2-2,Manfredas Lukjančukas,Match Report,,10.0,2.0,20.2,2.0,0,0,2023,RB Leipzig
+30,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Home,L,0.0,1.0,es Real Madrid,1.4,1.4,50.0,45028.0,Willi Orban,4-2-2-2,Irfan Peljto,Match Report,Leg 1 of 2,14.0,9.0,17.2,0.0,0,0,2023,RB Leipzig
+34,2024-03-06,21:00,Champions Lg,Round of 16,Wed,Away,D,1.0,1.0,es Real Madrid,1.0,0.8,47.0,76126.0,Willi Orban,4-2-2-2,Davide Massa,Match Report,Leg 2 of 2; Real Madrid won,20.0,4.0,17.8,1.0,0,0,2023,RB Leipzig
+4,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,es Atlético Madrid,1.2,0.9,49.0,46168.0,Ciro Immobile,4-3-3,Slavko Vinčič,Match Report,,19.0,7.0,23.5,1.0,0,0,2023,Lazio
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,sct Celtic,0.7,1.1,45.0,56063.0,Ciro Immobile,4-3-3,Donatas Rumšas,Match Report,,9.0,3.0,16.5,0.0,0,0,2023,Lazio
+11,2023-10-25,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,3.0,nl Feyenoord,2.3,2.1,54.0,44031.0,Ciro Immobile,4-3-3,Tobias Stieler,Match Report,,7.0,3.0,14.4,0.0,1,1,2023,Lazio
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,nl Feyenoord,1.1,1.4,36.0,36612.0,Ciro Immobile,4-3-3,Szymon Marciniak,Match Report,,9.0,1.0,16.8,1.0,0,0,2023,Lazio
+17,2023-11-28,18:45,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,sct Celtic,2.3,0.4,46.0,50555.0,Luis Alberto,4-3-3,Halil Umut Meler,Match Report,,22.0,5.0,18.8,0.0,0,0,2023,Lazio
+21,2023-12-13,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,2.0,es Atlético Madrid,0.9,1.3,43.0,63574.0,Ciro Immobile,4-3-3,Serdar Gözübüyük,Match Report,,10.0,4.0,17.5,1.0,0,0,2023,Lazio
+32,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Home,W,1.0,0.0,de Bayern Munich,1.6,1.1,39.0,57470.0,Ciro Immobile,4-3-3,François Letexier,Match Report,Leg 1 of 2,10.0,3.0,18.3,0.0,1,1,2023,Lazio
+37,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Away,L,0.0,3.0,de Bayern Munich,0.4,3.5,40.0,75000.0,Ciro Immobile,4-3-3,Slavko Vinčič,Match Report,Leg 2 of 2; Bayern Munich won,5.0,0.0,18.1,0.0,0,0,2023,Lazio
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,it Inter,1.3,0.5,44.0,36591.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,,14.0,5.0,15.9,1.0,0,0,2023,Real Sociedad
+9,2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,2,0,at RB Salzburg,1.2,0.6,52.0,28227.0,Mikel Oyarzabal,4-4-2,Bartosz Frankowski,Match Report,,15.0,5.0,20.7,0.0,0,0,2023,Real Sociedad
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,pt Benfica,0.9,0.5,62.0,56002.0,Mikel Oyarzabal,4-3-3,Clément Turpin,Match Report,,12.0,2.0,16.6,0.0,0,0,2023,Real Sociedad
+16,2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,pt Benfica,3.3,0.8,52.0,36815.0,Mikel Oyarzabal,4-3-3,Anthony Taylor,Match Report,,16.0,6.0,14.2,0.0,0,1,2023,Real Sociedad
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,at RB Salzburg,1.3,0.6,71.0,34419.0,Mikel Oyarzabal,4-3-3,Mykola Balakin,Match Report,,21.0,7.0,18.6,1.0,0,0,2023,Real Sociedad
+23,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,it Inter,0.7,0.7,55.0,69010.0,Mikel Oyarzabal,4-1-4-1,Sandro Schärer,Match Report,,5.0,2.0,17.6,0.0,0,0,2023,Real Sociedad
+36,2024-02-14,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,fr Paris S-G,0.7,1.2,38.0,46435.0,Mikel Merino,4-3-3,Marco Guida,Match Report,Leg 1 of 2,9.0,0.0,15.7,0.0,0,0,2023,Real Sociedad
+41,2024-03-05,21:00,Champions Lg,Round of 16,Tue,Home,L,1,2,fr Paris S-G,0.9,1.4,44.0,39336.0,Mikel Oyarzabal,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,14.0,7.0,16.9,0.0,0,0,2023,Real Sociedad
+4,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,pt Braga,1.7,1.4,47.0,18422.0,Giovanni Di Lorenzo,4-3-3,Serdar Gözübüyük,Match Report,,18.0,6.0,15.8,0.0,0,0,2023,Napoli
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,es Real Madrid,1.9,1.4,50.0,51649.0,Giovanni Di Lorenzo,4-3-3,Clément Turpin,Match Report,,17.0,6.0,18.3,0.0,1,1,2023,Napoli
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,W,1.0,0.0,de Union Berlin,0.2,0.4,59.0,72062.0,Giovanni Di Lorenzo,4-3-3,Irfan Peljto,Match Report,,6.0,1.0,19.6,0.0,0,0,2023,Napoli
+14,2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,de Union Berlin,1.7,1.1,73.0,42449.0,Giovanni Di Lorenzo,4-3-3,Danny Makkelie,Match Report,,27.0,5.0,15.3,1.0,0,0,2023,Napoli
+17,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,L,2.0,4.0,es Real Madrid,1.4,2.8,47.0,73562.0,Giovanni Di Lorenzo,4-3-3,François Letexier,Match Report,,11.0,3.0,14.9,0.0,0,0,2023,Napoli
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,pt Braga,1.4,1.0,50.0,37841.0,Giovanni Di Lorenzo,4-3-3,Slavko Vinčič,Match Report,,9.0,6.0,22.9,1.0,0,0,2023,Napoli
+33,2024-02-21,21:00,Champions Lg,Round of 16,Wed,Home,D,1.0,1.0,es Barcelona,0.9,0.7,50.0,49529.0,Giovanni Di Lorenzo,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,6.0,1.0,16.1,1.0,0,0,2023,Napoli
+38,2024-03-12,21:00,Champions Lg,Round of 16,Tue,Away,L,1.0,3.0,es Barcelona,1.3,2.7,52.0,50301.0,Giovanni Di Lorenzo,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,14.0,4.0,16.8,0.0,0,0,2023,Napoli
+0,2023-08-08,20:30,Champions Lg,Third qualifying round,Tue,Home,W,4.0,1.0,at Sturm Graz,,,,31500.0,Luuk de Jong,4-3-3,Radu Petrescu,Match Report,Leg 1 of 2,,,,,0,0,2023,PSV Eindhoven
+2,2023-08-15,20:30,Champions Lg,Third qualifying round,Tue,Away,W,3.0,1.0,at Sturm Graz,,,,12571.0,Luuk de Jong,4-3-3,Srđan Jovanović,Match Report,Leg 2 of 2; PSV Eindhoven won,,,,,1,1,2023,PSV Eindhoven
+4,2023-08-22,20:00,Champions Lg,Play-off round,Tue,Away,D,2.0,2.0,sct Rangers,,,69.0,47537.0,Luuk de Jong,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,19.0,5.0,,,0,0,2023,PSV Eindhoven
+5,2023-08-30,21:00,Champions Lg,Play-off round,Wed,Home,W,5.0,1.0,sct Rangers,,,57.0,34560.0,Luuk de Jong,4-2-3-1,José Sánchez,Match Report,Leg 2 of 2; PSV Eindhoven won,21.0,10.0,,,0,0,2023,PSV Eindhoven
+8,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,L,0.0,4.0,eng Arsenal,0.5,2.3,42.0,58860.0,Luuk de Jong,4-2-3-1,Felix Zwayer,Match Report,,12.0,4.0,19.9,0.0,0,0,2023,PSV Eindhoven
+12,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,D,2.0,2.0,es Sevilla,2.6,1.3,63.0,34206.0,Luuk de Jong,4-3-3,Daniele Orsato,Match Report,,25.0,7.0,16.6,0.0,1,1,2023,PSV Eindhoven
+15,2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,D,1.0,1.0,fr Lens,0.5,1.2,54.0,38133.0,Luuk de Jong,4-3-3,Radu Petrescu,Match Report,,10.0,2.0,17.4,1.0,0,0,2023,PSV Eindhoven
+18,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,1.0,0.0,fr Lens,0.8,1.1,46.0,34200.0,Luuk de Jong,4-2-3-1,Daniel Siebert,Match Report,,14.0,7.0,19.7,0.0,0,0,2023,PSV Eindhoven
+21,2023-11-29,18:45,Champions Lg,Group stage,Wed,Away,W,3.0,2.0,es Sevilla,2.2,1.8,60.0,29403.0,Luuk de Jong,4-2-3-1,Davide Massa,Match Report,,16.0,7.0,17.6,1.0,0,0,2023,PSV Eindhoven
+24,2023-12-12,18:45,Champions Lg,Group stage,Tue,Home,D,1.0,1.0,eng Arsenal,1.3,1.0,42.0,35000.0,André Ramalho,4-3-3,Tobias Stieler,Match Report,,17.0,5.0,17.4,0.0,0,0,2023,PSV Eindhoven
+32,2024-02-20,21:00,Champions Lg,Round of 16,Tue,Home,D,1.0,1.0,de Dortmund,1.6,0.9,55.0,34950.0,Luuk de Jong,4-3-3,Srđan Jovanović,Match Report,Leg 1 of 2,13.0,3.0,23.2,0.0,1,1,2023,PSV Eindhoven
+36,2024-03-13,21:00,Champions Lg,Round of 16,Wed,Away,L,0.0,2.0,de Dortmund,1.5,1.5,52.0,81365.0,Luuk de Jong,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Dortmund won,17.0,7.0,17.4,0.0,0,0,2023,PSV Eindhoven
+1,2023-07-25,19:15,Champions Lg,Second qualifying round,Tue,Away,W,2,0,is Breiðablik,,,,1485.0,Rasmus Falk,4-3-3,Gergő Bogár,Match Report,Leg 1 of 2,,,,,0,0,2023,FC Copenhagen
+3,2023-08-02,20:00,Champions Lg,Second qualifying round,Wed,Home,W,6,3,is Breiðablik,,,,20886.0,Rasmus Falk,4-3-3,Fabio Maresca,Match Report,Leg 2 of 2; FC Copenhagen won,,,,,0,0,2023,FC Copenhagen
+5,2023-08-08,20:00,Champions Lg,Third qualifying round,Tue,Home,D,0,0,cz Sparta Prague,,,,27170.0,Rasmus Falk,4-3-3,Benoît Bastien,Match Report,Leg 1 of 2,,,,,0,0,2023,FC Copenhagen
+7,2023-08-15,19:00,Champions Lg,Third qualifying round,Tue,Away,D,3 (4),3 (2),cz Sparta Prague,,,,18109.0,Rasmus Falk,4-3-3,Serdar Gözübüyük,Match Report,Leg 2 of 2; FC Copenhagen won; FC Copenhagen won on penalty kicks following extra time,,,,,0,0,2023,FC Copenhagen
+9,2023-08-22,21:00,Champions Lg,Play-off round,Tue,Away,W,1,0,pl RKS Raków,,,48.0,11600.0,Viktor Claesson,4-3-3,Irfan Peljto,Match Report,Leg 1 of 2,4.0,1.0,,,0,0,2023,FC Copenhagen
+11,2023-08-30,21:00,Champions Lg,Play-off round,Wed,Home,D,1,1,pl RKS Raków,,,47.0,34737.0,Viktor Claesson,4-3-3,István Kovács,Match Report,Leg 2 of 2; FC Copenhagen won,12.0,1.0,,,0,0,2023,FC Copenhagen
+14,2023-09-20,19:45,Champions Lg,Group stage,Wed,Away,D,2,2,tr Galatasaray,0.6,1.1,37.0,46911.0,Rasmus Falk,4-3-3,Georgi Kabakov,Match Report,,7.0,3.0,17.1,0.0,0,0,2023,FC Copenhagen
+17,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,de Bayern Munich,0.9,0.9,43.0,35690.0,Viktor Claesson,4-3-3,Orel Grinfeeld,Match Report,,11.0,4.0,15.7,0.0,0,0,2023,FC Copenhagen
+20,2023-10-24,20:00,Champions Lg,Group stage,Tue,Away,L,0,1,eng Manchester Utd,1.9,1.7,50.0,73249.0,Viktor Claesson,4-3-3,Marco Guida,Match Report,,15.0,3.0,20.3,1.0,0,1,2023,FC Copenhagen
+23,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,W,4,3,eng Manchester Utd,2.2,3.0,52.0,36099.0,Viktor Claesson,4-3-3,Donatas Rumšas,Match Report,,15.0,7.0,20.8,0.0,1,1,2023,FC Copenhagen
+26,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,D,0,0,de Bayern Munich,0.7,0.7,38.0,75000.0,Viktor Claesson,4-3-2-1,Stéphanie Frappart,Match Report,,8.0,3.0,16.8,0.0,0,0,2023,FC Copenhagen
+28,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,tr Galatasaray,1.3,1.4,37.0,34726.0,Viktor Claesson,4-3-3,Daniele Orsato,Match Report,,11.0,3.0,17.9,0.0,0,0,2023,FC Copenhagen
+29,2024-02-13,21:00,Champions Lg,Round of 16,Tue,Home,L,1,3,eng Manchester City,0.3,3.3,21.0,35853.0,Viktor Claesson,4-3-3,José Sánchez,Match Report,Leg 1 of 2,4.0,1.0,15.7,0.0,0,0,2023,FC Copenhagen
+33,2024-03-06,20:00,Champions Lg,Round of 16,Wed,Away,L,1,3,eng Manchester City,1.2,0.8,32.0,51531.0,Kamil Grabara,3-4-3,Espen Eskås,Match Report,Leg 2 of 2; Manchester City won,11.0,2.0,18.5,0.0,0,0,2023,FC Copenhagen
+7,2023-09-19,22:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,pt Porto,0.5,1.8,46.0,46729.0,Taras Stepanenko,4-3-3,Davide Massa,Match Report,,9.0,4.0,18.2,1.0,0,0,2023,Shakhtar Donetsk
+10,2023-10-04,18:45,Champions Lg,Group stage,Wed,Away,W,3.0,2.0,be Antwerp,2.3,1.8,47.0,13509.0,Taras Stepanenko,4-2-3-1,Rade Obrenović,Match Report,,16.0,6.0,16.8,1.0,0,0,2023,Shakhtar Donetsk
+12,2023-10-25,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,es Barcelona,0.9,2.6,46.0,41409.0,Taras Stepanenko,4-2-3-1,Ivan Kružliak,Match Report,,11.0,1.0,22.1,0.0,0,0,2023,Shakhtar Donetsk
+14,2023-11-07,19:45,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,es Barcelona,0.9,0.9,33.0,49147.0,Taras Stepanenko,4-1-4-1,Irfan Peljto,Match Report,,9.0,4.0,16.6,0.0,0,0,2023,Shakhtar Donetsk
+17,2023-11-28,19:45,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,be Antwerp,1.3,1.1,43.0,47209.0,Taras Stepanenko,4-1-4-1,Bartosz Frankowski,Match Report,,15.0,5.0,17.7,0.0,0,0,2023,Shakhtar Donetsk
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,L,3.0,5.0,pt Porto,1.5,2.7,51.0,48113.0,Taras Stepanenko,4-1-4-1,István Kovács,Match Report,,9.0,6.0,13.3,0.0,0,0,2023,Shakhtar Donetsk
+4,2023-09-19,18:45,Champions Lg,Group stage,Tue,Home,D,0.0,0.0,eng Newcastle Utd,1.9,0.3,53.0,65695.0,Davide Calabria,4-3-3,José Sánchez,Match Report,,25.0,8.0,16.9,0.0,0,0,2023,Milan
+8,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,D,0.0,0.0,de Dortmund,1.6,1.0,43.0,81365.0,Davide Calabria,4-3-3,Szymon Marciniak,Match Report,,14.0,2.0,15.0,0.0,0,0,2023,Milan
+11,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,3.0,fr Paris S-G,0.6,1.3,39.0,45962.0,Theo Hernández,4-3-3,Slavko Vinčič,Match Report,,11.0,4.0,18.7,1.0,0,0,2023,Milan
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,1.0,fr Paris S-G,1.4,1.5,31.0,75649.0,Davide Calabria,4-2-3-1,Jesús Gil,Match Report,,16.0,8.0,17.1,2.0,0,0,2023,Milan
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de Dortmund,2.1,1.8,54.0,75292.0,Davide Calabria,4-2-3-1,István Kovács,Match Report,,16.0,3.0,15.9,1.0,0,1,2023,Milan
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,1.0,eng Newcastle Utd,1.9,1.8,42.0,52037.0,Davide Calabria,4-2-3-1,Danny Makkelie,Match Report,,12.0,2.0,18.2,0.0,0,0,2023,Milan
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,es Sevilla,1.3,0.8,44.0,33544.0,Brice Samba,3-4-3,Tobias Stieler,Match Report,,12.0,3.0,14.4,1.0,0,0,2023,Lens
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,eng Arsenal,0.7,1.5,34.0,37040.0,Brice Samba,3-4-3,Marco Guida,Match Report,,10.0,3.0,15.8,0.0,0,0,2023,Lens
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,nl PSV Eindhoven,1.2,0.5,46.0,38133.0,Brice Samba,3-4-3,Radu Petrescu,Match Report,,14.0,2.0,14.0,0.0,0,0,2023,Lens
+14,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,nl PSV Eindhoven,1.1,0.8,54.0,34200.0,Brice Samba,3-4-3,Daniel Siebert,Match Report,,15.0,3.0,18.1,1.0,0,0,2023,Lens
+17,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,L,0,6,eng Arsenal,0.4,2.6,52.0,59987.0,Brice Samba,3-4-3,Artur Soares Dias,Match Report,,6.0,3.0,18.6,0.0,0,0,2023,Lens
+20,2023-12-12,18:45,Champions Lg,Group stage,Tue,Home,W,2,1,es Sevilla,1.4,1.3,35.0,37456.0,Brice Samba,3-5-1-1,Felix Zwayer,Match Report,,2.0,1.0,40.5,0.0,1,1,2023,Lens
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,sct Celtic,1.6,0.3,61.0,44008.0,Gernot Trauner,4-2-3-1,Irfan Peljto,Match Report,,15.0,4.0,21.3,1.0,0,1,2023,Feyenoord
+8,2023-10-04,18:45,Champions Lg,Group stage,Wed,Away,L,2,3,es Atlético Madrid,2.4,0.8,52.0,61742.0,Gernot Trauner,4-3-3,François Letexier,Match Report,,17.0,7.0,16.8,0.0,0,0,2023,Feyenoord
+11,2023-10-25,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,it Lazio,2.1,2.3,46.0,44031.0,Lutsharel Geertruida,4-3-3,Tobias Stieler,Match Report,,15.0,5.0,17.4,1.0,0,0,2023,Feyenoord
+14,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,0,1,it Lazio,1.4,1.1,64.0,36612.0,Lutsharel Geertruida,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,14.6,1.0,0,0,2023,Feyenoord
+17,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,L,1,3,es Atlético Madrid,1.1,1.3,51.0,43992.0,Gernot Trauner,4-2-3-1,Anthony Taylor,Match Report,,12.0,4.0,13.3,0.0,0,0,2023,Feyenoord
+20,2023-12-13,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,sct Celtic,2.1,2.2,53.0,56391.0,Lutsharel Geertruida,4-2-3-1,Benoît Bastien,Match Report,,19.0,7.0,18.4,1.0,0,0,2023,Feyenoord
+5,2023-09-19,18:45,Champions Lg,Group stage,Tue,Away,D,0,0,it Milan,0.3,1.9,47.0,65695.0,Kieran Trippier,4-3-3,José Sánchez,Match Report,,6.0,1.0,20.4,0.0,0,0,2023,Newcastle United
+9,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,W,4,1,fr Paris S-G,0.9,0.9,27.0,52009.0,Jamaal Lascelles,4-3-3,István Kovács,Match Report,,12.0,8.0,17.3,1.0,0,0,2023,Newcastle United
+12,2023-10-25,20:00,Champions Lg,Group stage,Wed,Home,L,0,1,de Dortmund,1.1,1.8,59.0,52024.0,Jamaal Lascelles,4-3-3,Artur Soares Dias,Match Report,,12.0,3.0,16.8,0.0,0,0,2023,Newcastle United
+16,2023-11-07,18:45,Champions Lg,Group stage,Tue,Away,L,0,2,de Dortmund,0.6,1.4,54.0,81365.0,Jamaal Lascelles,4-3-3,Alejandro Hernández,Match Report,,10.0,5.0,20.6,1.0,0,0,2023,Newcastle United
+19,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,fr Paris S-G,1.3,4.4,28.0,46435.0,Jamaal Lascelles,4-3-3,Szymon Marciniak,Match Report,,5.0,2.0,17.6,1.0,0,0,2023,Newcastle United
+23,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,L,1,2,it Milan,1.8,1.9,58.0,52037.0,Jamaal Lascelles,4-3-3,Danny Makkelie,Match Report,,17.0,6.0,18.0,1.0,0,0,2023,Newcastle United
+0,2023-07-25,19:00,Champions Lg,Second qualifying round,Tue,Away,D,2.0,2.0,lt Žalgiris,,,,4864.0,Fernando Muslera,4-2-3-1,Luís Godinho,Match Report,Leg 1 of 2,,,,,0,0,2023,Galatasaray
+1,2023-08-02,21:30,Champions Lg,Second qualifying round,Wed,Home,W,1.0,0.0,lt Žalgiris,,,,41505.0,Fernando Muslera,4-2-3-1,Willy Delajod,Match Report,Leg 2 of 2; Galatasaray won,,,,,0,0,2023,Galatasaray
+2,2023-08-08,21:00,Champions Lg,Third qualifying round,Tue,Away,W,3.0,0.0,si Olimpija,,,,13712.0,Fernando Muslera,4-2-3-1,Andreas Ekberg,Match Report,Leg 1 of 2,,,,,0,0,2023,Galatasaray
+4,2023-08-15,21:00,Champions Lg,Third qualifying round,Tue,Home,W,1.0,0.0,si Olimpija,,,,38383.0,Fernando Muslera,4-2-3-1,Marco Guida,Match Report,Leg 2 of 2; Galatasaray won,,,,,0,0,2023,Galatasaray
+6,2023-08-23,21:00,Champions Lg,Play-off round,Wed,Away,W,3.0,2.0,no Molde,,,51.0,9553.0,Fernando Muslera,4-4-1-1,Anthony Taylor,Match Report,Leg 1 of 2,6.0,3.0,,,0,0,2023,Galatasaray
+7,2023-08-29,22:00,Champions Lg,Play-off round,Tue,Home,W,2.0,1.0,no Molde,,,60.0,47845.0,Fernando Muslera,4-2-3-1,Szymon Marciniak,Match Report,Leg 2 of 2; Galatasaray won,9.0,3.0,,,1,1,2023,Galatasaray
+10,2023-09-20,19:45,Champions Lg,Group stage,Wed,Home,D,2.0,2.0,dk FC Copenhagen,1.1,0.6,63.0,46911.0,Fernando Muslera,4-2-3-1,Georgi Kabakov,Match Report,,14.0,5.0,17.6,0.0,0,0,2023,Galatasaray
+14,2023-10-03,20:00,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,eng Manchester Utd,2.6,2.3,45.0,73204.0,Fernando Muslera,4-2-3-1,Ivan Kružliak,Match Report,,13.0,4.0,18.4,0.0,0,1,2023,Galatasaray
+17,2023-10-24,19:45,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de Bayern Munich,2.7,1.9,52.0,51776.0,Fernando Muslera,4-2-3-1,Davide Massa,Match Report,,19.0,3.0,17.4,0.0,1,1,2023,Galatasaray
+20,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,de Bayern Munich,0.7,2.5,39.0,75000.0,Fernando Muslera,4-2-3-1,António Nobre,Match Report,,6.0,2.0,16.9,0.0,0,0,2023,Galatasaray
+23,2023-11-29,20:45,Champions Lg,Group stage,Wed,Home,D,3.0,3.0,eng Manchester Utd,1.5,1.6,57.0,51733.0,Fernando Muslera,4-2-3-1,José Sánchez,Match Report,,16.0,7.0,17.4,2.0,0,0,2023,Galatasaray
+26,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,dk FC Copenhagen,1.4,1.3,63.0,34726.0,Fernando Muslera,4-2-3-1,Daniele Orsato,Match Report,,22.0,4.0,13.6,0.0,0,0,2023,Galatasaray
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Away,L,3.0,4.0,de Bayern Munich,1.7,2.2,41.0,75000.0,Bruno Fernandes,4-2-3-1,Glenn Nyberg,Match Report,,9.0,4.0,11.3,0.0,0,0,2023,Manchester United
+9,2023-10-03,20:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,tr Galatasaray,2.3,2.6,55.0,73204.0,Bruno Fernandes,4-3-3,Ivan Kružliak,Match Report,,16.0,5.0,16.5,1.0,0,0,2023,Manchester United
+12,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,W,1.0,0.0,dk FC Copenhagen,1.7,1.9,50.0,73249.0,Bruno Fernandes,4-2-3-1,Marco Guida,Match Report,,15.0,5.0,15.0,0.0,0,0,2023,Manchester United
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,3.0,4.0,dk FC Copenhagen,3.0,2.2,48.0,36099.0,Bruno Fernandes,4-2-3-1,Donatas Rumšas,Match Report,,8.0,7.0,14.5,0.0,1,1,2023,Manchester United
+19,2023-11-29,20:45,Champions Lg,Group stage,Wed,Away,D,3.0,3.0,tr Galatasaray,1.6,1.5,43.0,51733.0,Bruno Fernandes,4-2-3-1,José Sánchez,Match Report,,17.0,4.0,17.3,0.0,0,0,2023,Manchester United
+23,2023-12-12,20:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,de Bayern Munich,0.3,1.2,41.0,73073.0,Bruno Fernandes,4-2-3-1,Espen Eskås,Match Report,,5.0,1.0,24.1,1.0,0,0,2023,Manchester United
+5,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,L,0.0,2.0,at RB Salzburg,1.5,3.3,57.0,60917.0,Nicolás Otamendi,4-2-3-1,Halil Umut Meler,Match Report,,15.0,6.0,13.6,1.0,0,0,2023,Benfica
+8,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,it Inter,0.3,3.8,53.0,66573.0,Nicolás Otamendi,4-2-3-1,Danny Makkelie,Match Report,,6.0,3.0,16.5,0.0,0,0,2023,Benfica
+10,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,es Real Sociedad,0.5,0.9,38.0,56002.0,Nicolás Otamendi,4-2-3-1,Clément Turpin,Match Report,,10.0,3.0,20.5,0.0,0,0,2023,Benfica
+13,2023-11-08,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,3.0,es Real Sociedad,0.8,3.3,48.0,36815.0,Nicolás Otamendi,3-4-3,Anthony Taylor,Match Report,,11.0,4.0,18.1,0.0,0,0,2023,Benfica
+15,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,D,3.0,3.0,it Inter,1.6,3.0,41.0,52944.0,Nicolás Otamendi,4-2-3-1,Andris Treimanis,Match Report,,11.0,5.0,15.2,0.0,0,0,2023,Benfica
+18,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,W,3.0,1.0,at RB Salzburg,3.1,1.6,57.0,27134.0,Nicolás Otamendi,4-2-3-1,Daniel Siebert,Match Report,,18.0,6.0,17.7,0.0,0,0,2023,Benfica
+7,2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,W,2.0,0.0,pt Benfica,3.3,1.5,43.0,60917.0,Amar Dedić,4-1-2-1-2◆,Halil Umut Meler,Match Report,,12.0,4.0,21.3,0.0,1,2,2023,Red Bull Salzburg
+10,2023-10-03,18:45,Champions Lg,Group stage,Tue,Home,L,0.0,2.0,es Real Sociedad,0.6,1.2,48.0,28227.0,Amar Dedić,4-1-2-1-2◆,Bartosz Frankowski,Match Report,,11.0,1.0,18.2,0.0,0,0,2023,Red Bull Salzburg
+13,2023-10-24,18:45,Champions Lg,Group stage,Tue,Away,L,1.0,2.0,it Inter,0.5,2.3,45.0,71825.0,Andreas Ulmer,4-2-3-1,François Letexier,Match Report,,11.0,6.0,20.8,0.0,0,0,2023,Red Bull Salzburg
+16,2023-11-08,21:00,Champions Lg,Group stage,Wed,Home,L,0.0,1.0,it Inter,0.8,2.0,50.0,30071.0,Andreas Ulmer,4-2-2-2,Serdar Gözübüyük,Match Report,,14.0,4.0,20.1,1.0,0,0,2023,Red Bull Salzburg
+19,2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,D,0.0,0.0,es Real Sociedad,0.6,1.3,29.0,34419.0,Andreas Ulmer,4-2-3-1,Mykola Balakin,Match Report,,4.0,1.0,15.8,0.0,0,0,2023,Red Bull Salzburg
+22,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,pt Benfica,1.6,3.1,43.0,27134.0,Amar Dedić,4-1-2-1-2◆,Daniel Siebert,Match Report,,19.0,6.0,18.3,0.0,0,0,2023,Red Bull Salzburg
+4,2023-08-23,22:00,Champions Lg,Play-off round,Wed,Away,D,0.0,0.0,il Maccabi Haifa,,,40.0,29864.0,Mohamed Aly Camara,4-1-3-2,Davide Massa,Match Report,Leg 1 of 2,8.0,0.0,,,0,0,2023,Young Boys
+5,2023-08-29,21:00,Champions Lg,Play-off round,Tue,Home,W,3.0,0.0,il Maccabi Haifa,,,41.0,31500.0,Mohamed Aly Camara,4-4-2◆,Slavko Vinčič,Match Report,Leg 2 of 2; Young Boys won,7.0,3.0,,,0,0,2023,Young Boys
+7,2023-09-19,18:45,Champions Lg,Group stage,Tue,Home,L,1.0,3.0,de RB Leipzig,0.5,2.6,55.0,31500.0,Mohamed Aly Camara,5-3-2,Enea Jorgji,Match Report,,8.0,3.0,20.1,0.0,0,0,2023,Young Boys
+11,2023-10-04,21:00,Champions Lg,Group stage,Wed,Away,D,2.0,2.0,rs Red Star,2.6,2.6,50.0,47201.0,Mohamed Aly Camara,4-3-3,William Collum,Match Report,,17.0,5.0,19.0,0.0,1,1,2023,Young Boys
+14,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,3.0,eng Manchester City,0.4,4.2,32.0,31500.0,Mohamed Aly Camara,4-3-3,Morten Krogh,Match Report,,10.0,4.0,23.1,0.0,0,0,2023,Young Boys
+17,2023-11-07,20:00,Champions Lg,Group stage,Tue,Away,L,0.0,3.0,eng Manchester City,0.0,3.4,29.0,51049.0,Mohamed Aly Camara,5-4-1,Erik Lambrechts,Match Report,,0.0,0.0,,0.0,0,0,2023,Young Boys
+20,2023-11-28,21:00,Champions Lg,Group stage,Tue,Home,W,2.0,0.0,rs Red Star,1.3,1.8,47.0,31500.0,Mohamed Aly Camara,4-4-2,Danny Makkelie,Match Report,,22.0,6.0,19.6,1.0,0,0,2023,Young Boys
+24,2023-12-13,18:45,Champions Lg,Group stage,Wed,Away,L,1.0,2.0,de RB Leipzig,1.5,0.7,47.0,43331.0,Fabian Lustenberger,4-4-2,Manfredas Lukjančukas,Match Report,,16.0,3.0,19.4,1.0,0,0,2023,Young Boys
+0,2023-08-08,20:00,Champions Lg,Third qualifying round,Tue,Home,W,3.0,0.0,rs TSC Bačka Top,,,,22186.0,Ricardo Horta,4-3-3,Harald Lechner,Match Report,Leg 1 of 2,,,,,0,0,2023,Braga
+2,2023-08-15,20:00,Champions Lg,Third qualifying round,Tue,Away,W,4.0,1.0,rs TSC Bačka Top,,,,4200.0,Ricardo Horta,4-3-3,Jakob Kehlet,Match Report,Leg 2 of 2; Braga won,,,,,0,0,2023,Braga
+4,2023-08-23,20:00,Champions Lg,Play-off round,Wed,Home,W,2.0,1.0,gr Panathinaikos,,,54.0,23401.0,Ricardo Horta,4-2-3-1,Felix Zwayer,Match Report,Leg 1 of 2,17.0,5.0,,,0,0,2023,Braga
+5,2023-08-29,22:00,Champions Lg,Play-off round,Tue,Away,W,1.0,0.0,gr Panathinaikos,,,42.0,61390.0,Ricardo Horta,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Braga won,19.0,6.0,,,0,0,2023,Braga
+9,2023-09-20,20:00,Champions Lg,Group stage,Wed,Home,L,1.0,2.0,it Napoli,1.4,1.7,53.0,18422.0,Ricardo Horta,4-2-3-1,Serdar Gözübüyük,Match Report,,16.0,2.0,15.0,1.0,0,0,2023,Braga
+12,2023-10-03,18:45,Champions Lg,Group stage,Tue,Away,W,3.0,2.0,de Union Berlin,1.2,2.0,63.0,73445.0,Ricardo Horta,4-2-3-1,Srđan Jovanović,Match Report,,12.0,6.0,19.1,0.0,0,0,2023,Braga
+14,2023-10-24,20:00,Champions Lg,Group stage,Tue,Home,L,1.0,2.0,es Real Madrid,1.5,0.9,48.0,29820.0,Ricardo Horta,4-2-3-1,Michael Oliver,Match Report,,16.0,3.0,15.1,0.0,0,0,2023,Braga
+17,2023-11-08,21:00,Champions Lg,Group stage,Wed,Away,L,0.0,3.0,es Real Madrid,1.4,3.2,52.0,68509.0,Ricardo Horta,4-3-3,Halil Umut Meler,Match Report,,8.0,3.0,23.5,0.0,0,1,2023,Braga
+19,2023-11-29,20:00,Champions Lg,Group stage,Wed,Home,D,1.0,1.0,de Union Berlin,1.8,0.8,53.0,15855.0,Ricardo Horta,4-2-3-1,Clément Turpin,Match Report,,18.0,1.0,14.2,0.0,0,0,2023,Braga
+22,2023-12-12,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,it Napoli,1.0,1.4,50.0,37841.0,Ricardo Horta,4-2-3-1,Slavko Vinčič,Match Report,,19.0,5.0,18.9,1.0,0,0,2023,Braga
+5,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,nl Feyenoord,0.3,1.6,39.0,44008.0,Callum McGregor,4-3-3,Irfan Peljto,Match Report,,8.0,3.0,22.6,0.0,0,0,2023,Celtic
+8,2023-10-04,20:00,Champions Lg,Group stage,Wed,Home,L,1.0,2.0,it Lazio,1.1,0.7,55.0,56063.0,Callum McGregor,4-3-3,Donatas Rumšas,Match Report,,11.0,4.0,15.5,0.0,0,0,2023,Celtic
+11,2023-10-25,20:00,Champions Lg,Group stage,Wed,Home,D,2.0,2.0,es Atlético Madrid,0.9,2.1,53.0,55844.0,Callum McGregor,4-3-3,Felix Zwayer,Match Report,,6.0,3.0,13.1,0.0,0,0,2023,Celtic
+15,2023-11-07,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,6.0,es Atlético Madrid,0.0,2.9,35.0,60863.0,Callum McGregor,4-3-3,Ivan Kružliak,Match Report,,1.0,1.0,28.2,0.0,0,0,2023,Celtic
+18,2023-11-28,18:45,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,it Lazio,0.4,2.3,54.0,50555.0,Callum McGregor,4-3-3,Halil Umut Meler,Match Report,,7.0,4.0,17.7,0.0,0,0,2023,Celtic
+22,2023-12-13,20:00,Champions Lg,Group stage,Wed,Home,W,2.0,1.0,nl Feyenoord,2.2,2.1,47.0,56391.0,Callum McGregor,4-3-3,Benoît Bastien,Match Report,,12.0,6.0,18.7,0.0,1,1,2023,Celtic
+4,2023-08-22,21:00,Champions Lg,Play-off round,Tue,Home,W,1.0,0.0,gr AEK Athens,,,36.0,13376.0,Toby Alderweireld,4-2-3-1,François Letexier,Match Report,Leg 1 of 2,7.0,4.0,,,0,0,2023,Antwerp
+5,2023-08-30,22:00,Champions Lg,Play-off round,Wed,Away,W,2.0,1.0,gr AEK Athens,,,37.0,29300.0,Toby Alderweireld,4-2-3-1,Jesús Gil,Match Report,Leg 2 of 2; Antwerp won,7.0,3.0,,,0,0,2023,Antwerp
+8,2023-09-19,21:00,Champions Lg,Group stage,Tue,Away,L,0.0,5.0,es Barcelona,0.3,2.8,30.0,40989.0,Toby Alderweireld,4-2-3-1,Radu Petrescu,Match Report,,3.0,1.0,13.7,0.0,0,0,2023,Antwerp
+12,2023-10-04,18:45,Champions Lg,Group stage,Wed,Home,L,2.0,3.0,ua Shakhtar,1.8,2.3,53.0,13509.0,Toby Alderweireld,4-3-3,Rade Obrenović,Match Report,,12.0,6.0,21.9,1.0,0,1,2023,Antwerp
+15,2023-10-25,21:00,Champions Lg,Group stage,Wed,Home,L,1.0,4.0,pt Porto,0.7,1.3,55.0,13651.0,Toby Alderweireld,4-2-3-1,Benoît Bastien,Match Report,,11.0,2.0,16.5,0.0,0,0,2023,Antwerp
+18,2023-11-07,20:00,Champions Lg,Group stage,Tue,Away,L,0.0,2.0,pt Porto,0.6,2.2,33.0,44830.0,Arthur Vermeeren,4-2-3-1,Maurizio Mariani,Match Report,,4.0,1.0,14.9,0.0,0,0,2023,Antwerp
+21,2023-11-28,19:45,Champions Lg,Group stage,Tue,Away,L,0.0,1.0,ua Shakhtar,1.1,1.3,57.0,47209.0,Toby Alderweireld,4-2-3-1,Bartosz Frankowski,Match Report,,14.0,6.0,15.4,0.0,0,0,2023,Antwerp
+24,2023-12-13,21:00,Champions Lg,Group stage,Wed,Home,W,3.0,2.0,es Barcelona,1.7,1.1,31.0,13550.0,Toby Alderweireld,4-5-1,Marco Guida,Match Report,,11.0,5.0,15.6,0.0,0,0,2023,Antwerp
+5,2023-09-20,18:45,Champions Lg,Group stage,Wed,Away,L,0.0,1.0,es Real Madrid,0.2,3.7,25.0,65207.0,Sheraldo Becker,3-5-2,Espen Eskås,Match Report,,4.0,0.0,12.9,0.0,0,0,2023,Union Berlin
+8,2023-10-03,18:45,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,pt Braga,2.0,1.2,37.0,73445.0,Sheraldo Becker,5-3-2,Srđan Jovanović,Match Report,,13.0,5.0,16.7,1.0,0,0,2023,Union Berlin
+11,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,L,0.0,1.0,it Napoli,0.4,0.2,41.0,72062.0,Christopher Trimmel,3-1-4-2,Irfan Peljto,Match Report,,11.0,2.0,19.8,0.0,0,0,2023,Union Berlin
+15,2023-11-08,18:45,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,it Napoli,1.1,1.7,27.0,42449.0,Rani Khedira,3-5-2,Danny Makkelie,Match Report,,15.0,6.0,19.9,1.0,0,0,2023,Union Berlin
+18,2023-11-29,20:00,Champions Lg,Group stage,Wed,Away,D,1.0,1.0,pt Braga,0.8,1.8,47.0,15855.0,Rani Khedira,4-1-4-1,Clément Turpin,Match Report,,6.0,2.0,12.8,0.0,0,0,2023,Union Berlin
+20,2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,L,2.0,3.0,es Real Madrid,1.1,2.9,26.0,73420.0,Rani Khedira,5-3-2,Rade Obrenović,Match Report,,8.0,5.0,14.5,0.0,0,0,2023,Union Berlin
+5,2023-09-20,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,fr Lens,0.8,1.3,56.0,33544.0,Ivan Rakitić,4-2-3-1,Tobias Stieler,Match Report,,10.0,5.0,13.1,0.0,0,0,2023,Sevilla
+9,2023-10-03,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,nl PSV Eindhoven,1.3,2.6,37.0,34206.0,Jesús Navas,4-2-3-1,Daniele Orsato,Match Report,,10.0,2.0,15.8,0.0,0,0,2023,Sevilla
+12,2023-10-24,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,eng Arsenal,0.8,1.9,57.0,39595.0,Jesús Navas,4-2-3-1,Glenn Nyberg,Match Report,,11.0,2.0,17.7,0.0,0,0,2023,Sevilla
+16,2023-11-08,20:00,Champions Lg,Group stage,Wed,Away,L,0,2,eng Arsenal,0.0,1.5,38.0,60024.0,Fernando,4-2-3-1,István Kovács,Match Report,,1.0,1.0,22.0,0.0,0,0,2023,Sevilla
+19,2023-11-29,18:45,Champions Lg,Group stage,Wed,Home,L,2,3,nl PSV Eindhoven,1.8,2.2,40.0,29403.0,Jesús Navas,4-3-3,Davide Massa,Match Report,,11.0,4.0,15.6,0.0,0,0,2023,Sevilla
+23,2023-12-12,18:45,Champions Lg,Group stage,Tue,Away,L,1,2,fr Lens,1.3,1.4,65.0,37456.0,Ivan Rakitić,3-5-1-1,Felix Zwayer,Match Report,,9.0,3.0,18.4,0.0,1,1,2023,Sevilla
+7,2023-09-19,20:00,Champions Lg,Group stage,Tue,Away,L,1,3,eng Manchester City,0.8,4.1,24.0,50204.0,Aleksandar Dragović,5-3-2,João Pinheiro,Match Report,,3.0,2.0,19.3,0.0,0,0,2023,Red Star Belgrade
+9,2023-10-04,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,ch Young Boys,2.6,2.6,50.0,47201.0,Aleksandar Dragović,4-2-3-1,William Collum,Match Report,,20.0,9.0,13.7,0.0,0,0,2023,Red Star Belgrade
+12,2023-10-25,21:00,Champions Lg,Group stage,Wed,Away,L,1,3,de RB Leipzig,1.0,3.1,35.0,42209.0,Aleksandar Dragović,3-5-2,José Sánchez,Match Report,,16.0,4.0,19.9,0.0,0,0,2023,Red Star Belgrade
+16,2023-11-07,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,de RB Leipzig,1.5,2.3,50.0,41961.0,Aleksandar Dragović,5-3-2,Daniele Orsato,Match Report,,15.0,3.0,18.1,0.0,0,0,2023,Red Star Belgrade
+19,2023-11-28,21:00,Champions Lg,Group stage,Tue,Away,L,0,2,ch Young Boys,1.8,1.3,53.0,31500.0,Aleksandar Dragović,4-1-2-1-2◆,Danny Makkelie,Match Report,,18.0,3.0,17.6,0.0,0,0,2023,Red Star Belgrade
+22,2023-12-13,18:45,Champions Lg,Group stage,Wed,Home,L,2,3,eng Manchester City,1.1,1.4,32.0,49443.0,Aleksandar Dragović,5-3-2,Əliyar Ağayev,Match Report,,11.0,6.0,17.4,0.0,0,0,2023,Red Star Belgrade
